@@ -1,0 +1,801 @@
+BeneficiaryID,Country,Region,Sector,Organization,OrgType,Gender,AgeGroup,VulnerabilityType,RegistrationDate,Donor
+BEN-0001,Burkina Faso,Centre,Food Security,WFP,UN Agency,Male,0-5,IDP,2024-02-22,BHA
+BEN-0002,Chad,N'Djamena,Nutrition,Oxfam,INGO,Male,18-59,Host Community,2024-01-14,GFFO
+BEN-0003,Senegal,Ziguinchor,WASH,MENA,Government,Female,18-59,Host Community,2024-01-04,GFFO
+BEN-0004,Chad,Ouaddai,Shelter,CREDO,NGO,Female,0-5,IDP,2024-07-13,OCHA
+BEN-0005,Niger,Diffa,Shelter,Save the Children,INGO,Female,0-5,IDP,2024-07-12,BHA
+BEN-0006,Niger,Diffa,Education,FAO,UN Agency,Male,18-59,Host Community,2024-01-24,EU
+BEN-0007,Niger,Niamey,Education,SPONG,NGO,Female,6-17,Refugee,2024-11-21,UNICEF
+BEN-0008,Niger,Maradi,WASH,UNICEF,UN Agency,Female,18-59,Host Community,2024-09-30,UNICEF
+BEN-0009,Chad,Borkou,Shelter,AMADE,NGO,Male,6-17,Refugee,2024-01-17,NORAD
+BEN-0010,Niger,Niamey,WASH,WFP,UN Agency,Female,6-17,Returnee,2024-11-25,UNICEF
+BEN-0011,Niger,Zinder,WASH,FAO,UN Agency,Female,18-59,Refugee,2024-07-23,UNICEF
+BEN-0012,Mali,Segou,Protection,IRC,INGO,Male,0-5,Returnee,2024-03-22,BHA
+BEN-0013,Burkina Faso,Est,Protection,MENA,Government,Female,60+,IDP,2025-03-16,GFFO
+BEN-0014,Burkina Faso,Cascades,Education,UNHCR,UN Agency,Male,6-17,Returnee,2024-03-21,USAID
+BEN-0015,Niger,Diffa,Education,CISV,NGO,Male,18-59,Host Community,2024-06-01,UNICEF
+BEN-0016,Niger,Zinder,Health,ACF,INGO,Female,6-17,Refugee,2024-02-27,EU
+BEN-0017,Niger,Zinder,Nutrition,CISV,NGO,Male,0-5,IDP,2024-09-05,EU
+BEN-0018,Senegal,Thiès,WASH,MENA,Government,Male,6-17,Returnee,2025-03-22,UNICEF
+BEN-0019,Senegal,Thiès,Food Security,WHO,UN Agency,Female,18-59,Returnee,2024-08-12,USAID
+BEN-0020,Mali,Mopti,Nutrition,UNICEF,UN Agency,Female,18-59,Host Community,2024-10-28,USAID
+BEN-0021,Burkina Faso,Centre,WASH,IRC,INGO,Female,0-5,Refugee,2024-05-01,GFFO
+BEN-0022,Chad,Lac,Health,CISV,NGO,Female,6-17,Returnee,2025-02-05,EU
+BEN-0023,Chad,Lac,Nutrition,Save the Children,INGO,Female,6-17,IDP,2024-08-27,GFFO
+BEN-0024,Burkina Faso,Centre,Protection,UNICEF,UN Agency,Male,0-5,Returnee,2024-10-01,UNICEF
+BEN-0025,Chad,Lac,Shelter,DNDS,Government,Male,6-17,IDP,2025-03-17,USAID
+BEN-0026,Senegal,Dakar,Nutrition,CREDO,NGO,Female,6-17,Returnee,2024-04-19,USAID
+BEN-0027,Mali,Tombouctou,Nutrition,MASF,Government,Female,6-17,Returnee,2024-12-22,UNICEF
+BEN-0028,Mali,Gao,WASH,ACF,INGO,Female,18-59,Refugee,2025-01-17,USAID
+BEN-0029,Burkina Faso,Cascades,Protection,SPONG,NGO,Female,0-5,IDP,2024-04-05,BHA
+BEN-0030,Burkina Faso,Sahel,Protection,ACF,INGO,Male,18-59,IDP,2024-01-21,NORAD
+BEN-0031,Senegal,Louga,Health,UNHCR,UN Agency,Male,18-59,Host Community,2024-06-09,OCHA
+BEN-0032,Chad,Lac,Food Security,WHO,UN Agency,Female,60+,IDP,2024-02-07,NORAD
+BEN-0033,Senegal,Louga,Nutrition,ACF,INGO,Male,18-59,Refugee,2024-03-08,USAID
+BEN-0034,Mali,Gao,Shelter,AFRIQUE ESPOIR,NGO,Female,18-59,IDP,2024-11-09,GFFO
+BEN-0035,Senegal,Saint-Louis,Food Security,Oxfam,INGO,Female,0-5,Host Community,2024-02-24,OCHA
+BEN-0036,Niger,Diffa,WASH,WFP,UN Agency,Female,18-59,Returnee,2024-05-15,OCHA
+BEN-0037,Burkina Faso,Centre,Food Security,MASF,Government,Male,0-5,Host Community,2025-01-29,GFFO
+BEN-0038,Niger,Zinder,Food Security,MENA,Government,Female,6-17,IDP,2024-01-05,USAID
+BEN-0039,Mali,Segou,Nutrition,FAO,UN Agency,Female,0-5,IDP,2024-03-06,OCHA
+BEN-0040,Niger,Niamey,Shelter,CREDO,NGO,Female,0-5,Returnee,2025-02-03,BHA
+BEN-0041,Mali,Mopti,Education,CREDO,NGO,Female,0-5,Refugee,2025-01-12,EU
+BEN-0042,Chad,Lac,Shelter,SPONG,NGO,Female,18-59,Returnee,2025-03-15,UNICEF
+BEN-0043,Mali,Tombouctou,Shelter,WFP,UN Agency,Male,0-5,Returnee,2024-04-08,OCHA
+BEN-0044,Niger,Niamey,Education,UNHCR,UN Agency,Female,18-59,Refugee,2024-12-13,USAID
+BEN-0045,Burkina Faso,Nord,WASH,UNICEF,UN Agency,Male,18-59,Refugee,2024-06-25,NORAD
+BEN-0046,Senegal,Louga,Nutrition,MENA,Government,Male,6-17,Returnee,2024-12-28,USAID
+BEN-0047,Senegal,Louga,Food Security,AMADE,NGO,Female,0-5,Refugee,2024-12-06,BHA
+BEN-0048,Niger,Niamey,Food Security,FAO,UN Agency,Female,18-59,Returnee,2024-06-16,GFFO
+BEN-0049,Niger,Diffa,WASH,AFRIQUE ESPOIR,NGO,Female,60+,Host Community,2024-12-12,BHA
+BEN-0050,Senegal,Saint-Louis,Protection,MSF,INGO,Female,6-17,Refugee,2025-02-06,NORAD
+BEN-0051,Chad,Borkou,Food Security,CISV,NGO,Female,18-59,Host Community,2025-02-11,GFFO
+BEN-0052,Burkina Faso,Nord,Health,UNICEF,UN Agency,Male,18-59,Host Community,2024-04-25,UNICEF
+BEN-0053,Burkina Faso,Centre,WASH,MENA,Government,Male,6-17,Host Community,2024-11-18,GFFO
+BEN-0054,Chad,Borkou,Protection,CREDO,NGO,Female,18-59,IDP,2025-01-19,EU
+BEN-0055,Chad,Lac,WASH,DREP,Government,Female,6-17,IDP,2025-03-10,NORAD
+BEN-0056,Mali,Tombouctou,Food Security,WHO,UN Agency,Female,18-59,Returnee,2024-09-15,EU
+BEN-0057,Senegal,Ziguinchor,WASH,MSHP,Government,Female,18-59,Refugee,2025-03-06,EU
+BEN-0058,Senegal,Ziguinchor,Food Security,AMADE,NGO,Female,0-5,Host Community,2024-05-26,OCHA
+BEN-0059,Niger,Maradi,Health,Oxfam,INGO,Male,6-17,Host Community,2024-12-21,GFFO
+BEN-0060,Mali,Bamako,Protection,MASF,Government,Female,6-17,Host Community,2024-02-01,EU
+BEN-0061,Chad,Borkou,Education,ACF,INGO,Female,6-17,Refugee,2024-06-29,EU
+BEN-0062,Chad,Borkou,Health,AFRIQUE ESPOIR,NGO,Male,6-17,IDP,2024-09-05,NORAD
+BEN-0063,Niger,Agadez,Food Security,AFRIQUE ESPOIR,NGO,Male,60+,IDP,2024-09-30,NORAD
+BEN-0064,Senegal,Louga,Food Security,IRC,INGO,Female,6-17,Returnee,2025-03-19,UNICEF
+BEN-0065,Burkina Faso,Nord,Protection,WFP,UN Agency,Female,6-17,Returnee,2025-01-24,OCHA
+BEN-0066,Chad,Ouaddai,Education,Save the Children,INGO,Male,18-59,Refugee,2024-01-27,UNICEF
+BEN-0067,Burkina Faso,Centre,Education,Oxfam,INGO,Male,18-59,Host Community,2024-11-14,UNICEF
+BEN-0068,Mali,Tombouctou,Food Security,ACF,INGO,Male,6-17,Refugee,2024-05-11,UNICEF
+BEN-0069,Senegal,Louga,Food Security,Oxfam,INGO,Female,0-5,Refugee,2024-01-14,BHA
+BEN-0070,Chad,Borkou,Food Security,SPONG,NGO,Female,18-59,Host Community,2024-11-17,USAID
+BEN-0071,Niger,Diffa,Education,ACF,INGO,Male,6-17,Refugee,2024-08-07,USAID
+BEN-0072,Senegal,Saint-Louis,Nutrition,MSHP,Government,Male,6-17,Returnee,2024-07-04,GFFO
+BEN-0073,Mali,Tombouctou,WASH,FAO,UN Agency,Female,18-59,Returnee,2024-08-26,EU
+BEN-0074,Senegal,Saint-Louis,Shelter,SPONG,NGO,Female,18-59,Returnee,2024-05-04,BHA
+BEN-0075,Senegal,Ziguinchor,Shelter,Save the Children,INGO,Female,0-5,Refugee,2024-04-18,EU
+BEN-0076,Niger,Maradi,Shelter,FAO,UN Agency,Male,18-59,IDP,2024-04-07,UNICEF
+BEN-0077,Chad,Borkou,Health,AFRIQUE ESPOIR,NGO,Female,18-59,IDP,2024-08-17,USAID
+BEN-0078,Niger,Zinder,Protection,AMADE,NGO,Female,18-59,Refugee,2024-08-30,NORAD
+BEN-0079,Senegal,Saint-Louis,Shelter,MASF,Government,Female,6-17,Host Community,2024-03-02,OCHA
+BEN-0080,Burkina Faso,Cascades,Education,CREDO,NGO,Male,18-59,Refugee,2024-05-21,USAID
+BEN-0081,Mali,Gao,WASH,WFP,UN Agency,Female,0-5,Host Community,2024-09-30,OCHA
+BEN-0082,Burkina Faso,Centre,Health,WFP,UN Agency,Female,18-59,IDP,2024-09-08,EU
+BEN-0083,Burkina Faso,Cascades,Shelter,MSHP,Government,Female,6-17,Refugee,2024-01-27,EU
+BEN-0084,Chad,N'Djamena,Education,Save the Children,INGO,Female,0-5,IDP,2024-11-18,UNICEF
+BEN-0085,Mali,Segou,Shelter,Oxfam,INGO,Male,18-59,Host Community,2024-08-01,EU
+BEN-0086,Senegal,Ziguinchor,Protection,MASF,Government,Female,60+,IDP,2024-06-05,BHA
+BEN-0087,Burkina Faso,Sahel,Food Security,AMADE,NGO,Female,0-5,Host Community,2024-05-02,BHA
+BEN-0088,Burkina Faso,Sahel,Nutrition,MSHP,Government,Female,18-59,IDP,2024-05-29,UNICEF
+BEN-0089,Niger,Maradi,Food Security,DREP,Government,Female,6-17,Host Community,2024-05-15,NORAD
+BEN-0090,Burkina Faso,Cascades,WASH,AMADE,NGO,Male,0-5,Refugee,2024-03-25,BHA
+BEN-0091,Senegal,Saint-Louis,Protection,Save the Children,INGO,Female,6-17,Refugee,2024-07-25,BHA
+BEN-0092,Senegal,Ziguinchor,Protection,ACF,INGO,Male,18-59,Refugee,2025-01-11,BHA
+BEN-0093,Niger,Niamey,Nutrition,CISV,NGO,Female,60+,Refugee,2025-01-26,BHA
+BEN-0094,Burkina Faso,Sahel,Protection,MASF,Government,Male,60+,Returnee,2024-08-11,USAID
+BEN-0095,Chad,Ouaddai,Protection,UNHCR,UN Agency,Female,0-5,Refugee,2024-03-23,NORAD
+BEN-0096,Chad,Ouaddai,Food Security,MENA,Government,Male,6-17,Refugee,2024-06-10,OCHA
+BEN-0097,Burkina Faso,Est,Education,ACF,INGO,Female,6-17,Refugee,2024-04-06,BHA
+BEN-0098,Chad,Borkou,Education,Oxfam,INGO,Female,18-59,Returnee,2024-05-27,GFFO
+BEN-0099,Chad,N'Djamena,Nutrition,CREDO,NGO,Female,18-59,Returnee,2024-10-09,USAID
+BEN-0100,Mali,Bamako,Protection,Oxfam,INGO,Female,60+,Refugee,2024-05-29,NORAD
+BEN-0101,Chad,Borkou,WASH,MENA,Government,Male,6-17,Host Community,2024-11-02,EU
+BEN-0102,Burkina Faso,Nord,Education,MASF,Government,Female,6-17,Refugee,2024-01-02,GFFO
+BEN-0103,Niger,Diffa,Health,DNDS,Government,Female,18-59,Refugee,2024-06-25,BHA
+BEN-0104,Senegal,Ziguinchor,Protection,WFP,UN Agency,Female,6-17,Host Community,2024-07-15,EU
+BEN-0105,Chad,N'Djamena,Shelter,MSHP,Government,Female,60+,Host Community,2025-02-09,NORAD
+BEN-0106,Burkina Faso,Sahel,Health,UNICEF,UN Agency,Female,0-5,IDP,2024-08-21,GFFO
+BEN-0107,Mali,Tombouctou,Education,SPONG,NGO,Female,18-59,Refugee,2024-05-15,BHA
+BEN-0108,Chad,N'Djamena,Education,FAO,UN Agency,Female,60+,Returnee,2024-11-16,EU
+BEN-0109,Senegal,Dakar,Health,Oxfam,INGO,Female,18-59,Host Community,2024-05-27,GFFO
+BEN-0110,Burkina Faso,Est,Nutrition,Save the Children,INGO,Male,18-59,IDP,2024-01-15,OCHA
+BEN-0111,Burkina Faso,Nord,Shelter,WHO,UN Agency,Male,6-17,Host Community,2024-07-29,UNICEF
+BEN-0112,Mali,Bamako,Health,MENA,Government,Female,6-17,Host Community,2024-10-25,UNICEF
+BEN-0113,Chad,Ouaddai,Protection,UNICEF,UN Agency,Female,60+,Host Community,2024-12-12,USAID
+BEN-0114,Chad,Ouaddai,Health,WHO,UN Agency,Female,6-17,Refugee,2025-03-08,UNICEF
+BEN-0115,Chad,Borkou,Nutrition,AFRIQUE ESPOIR,NGO,Female,6-17,Refugee,2024-05-31,USAID
+BEN-0116,Chad,Ouaddai,Nutrition,ACF,INGO,Female,6-17,Host Community,2024-05-26,BHA
+BEN-0117,Niger,Zinder,Food Security,CISV,NGO,Female,18-59,Host Community,2025-01-04,GFFO
+BEN-0118,Burkina Faso,Centre,Shelter,DREP,Government,Female,6-17,IDP,2024-03-08,OCHA
+BEN-0119,Niger,Agadez,WASH,CREDO,NGO,Female,18-59,Refugee,2024-07-06,EU
+BEN-0120,Mali,Gao,Education,MASF,Government,Female,18-59,IDP,2025-02-15,NORAD
+BEN-0121,Burkina Faso,Sahel,Education,AFRIQUE ESPOIR,NGO,Female,6-17,Returnee,2025-02-08,USAID
+BEN-0122,Niger,Diffa,Nutrition,MASF,Government,Female,18-59,Returnee,2024-05-14,EU
+BEN-0123,Niger,Niamey,Food Security,AFRIQUE ESPOIR,NGO,Male,18-59,Refugee,2024-10-14,BHA
+BEN-0124,Mali,Bamako,Food Security,MASF,Government,Female,6-17,IDP,2024-03-12,USAID
+BEN-0125,Niger,Agadez,Nutrition,Oxfam,INGO,Female,0-5,Refugee,2024-08-20,GFFO
+BEN-0126,Senegal,Ziguinchor,Health,AFRIQUE ESPOIR,NGO,Female,0-5,Returnee,2024-09-07,OCHA
+BEN-0127,Burkina Faso,Nord,WASH,MSHP,Government,Male,18-59,Refugee,2024-02-20,BHA
+BEN-0128,Niger,Niamey,Protection,WFP,UN Agency,Male,60+,Returnee,2025-02-25,USAID
+BEN-0129,Mali,Segou,Nutrition,MSF,INGO,Male,60+,Host Community,2025-02-06,USAID
+BEN-0130,Senegal,Thiès,Health,CREDO,NGO,Female,18-59,IDP,2025-02-07,OCHA
+BEN-0131,Mali,Mopti,Health,WFP,UN Agency,Male,18-59,Host Community,2024-01-14,USAID
+BEN-0132,Niger,Zinder,Health,UNICEF,UN Agency,Male,6-17,Returnee,2024-03-05,BHA
+BEN-0133,Burkina Faso,Centre,Protection,MASF,Government,Female,18-59,Host Community,2024-08-19,BHA
+BEN-0134,Burkina Faso,Cascades,Shelter,DREP,Government,Male,60+,Returnee,2025-03-09,NORAD
+BEN-0135,Burkina Faso,Est,Food Security,DREP,Government,Male,6-17,IDP,2024-03-16,UNICEF
+BEN-0136,Niger,Diffa,Food Security,WHO,UN Agency,Female,18-59,Returnee,2024-08-20,USAID
+BEN-0137,Burkina Faso,Cascades,Food Security,AFRIQUE ESPOIR,NGO,Female,18-59,Refugee,2024-07-30,EU
+BEN-0138,Chad,Borkou,Protection,MSF,INGO,Female,6-17,Refugee,2024-05-10,UNICEF
+BEN-0139,Chad,N'Djamena,Nutrition,IRC,INGO,Female,0-5,Refugee,2025-01-13,EU
+BEN-0140,Mali,Segou,Nutrition,UNICEF,UN Agency,Female,6-17,Returnee,2024-12-06,EU
+BEN-0141,Burkina Faso,Nord,Health,UNHCR,UN Agency,Male,18-59,Host Community,2024-04-18,GFFO
+BEN-0142,Chad,Lac,Education,MSF,INGO,Female,6-17,Refugee,2025-01-25,BHA
+BEN-0143,Mali,Tombouctou,Education,ACF,INGO,Female,18-59,IDP,2024-05-16,UNICEF
+BEN-0144,Niger,Maradi,Shelter,UNICEF,UN Agency,Male,18-59,Returnee,2024-10-16,USAID
+BEN-0145,Mali,Bamako,Nutrition,AFRIQUE ESPOIR,NGO,Female,6-17,Refugee,2024-03-21,OCHA
+BEN-0146,Niger,Diffa,Health,IRC,INGO,Male,0-5,IDP,2024-11-12,GFFO
+BEN-0147,Burkina Faso,Nord,Protection,MSHP,Government,Female,6-17,Host Community,2024-05-19,EU
+BEN-0148,Senegal,Dakar,Shelter,DREP,Government,Female,18-59,Returnee,2024-10-30,BHA
+BEN-0149,Niger,Niamey,WASH,MENA,Government,Male,0-5,Host Community,2024-06-03,EU
+BEN-0150,Mali,Gao,Shelter,UNICEF,UN Agency,Male,6-17,Host Community,2024-08-08,UNICEF
+BEN-0151,Chad,Kanem,Food Security,CISV,NGO,Female,18-59,Refugee,2025-02-16,USAID
+BEN-0152,Chad,N'Djamena,Protection,Save the Children,INGO,Male,18-59,Returnee,2024-10-21,BHA
+BEN-0153,Chad,Borkou,Shelter,Save the Children,INGO,Male,60+,Returnee,2024-03-28,EU
+BEN-0154,Niger,Niamey,Protection,Oxfam,INGO,Female,18-59,IDP,2024-09-25,NORAD
+BEN-0155,Niger,Maradi,WASH,WFP,UN Agency,Male,18-59,Host Community,2024-02-28,EU
+BEN-0156,Niger,Maradi,Food Security,CREDO,NGO,Male,0-5,Host Community,2024-04-11,BHA
+BEN-0157,Mali,Bamako,WASH,MSHP,Government,Female,18-59,Refugee,2024-08-17,EU
+BEN-0158,Niger,Zinder,Protection,Save the Children,INGO,Female,18-59,Refugee,2025-02-11,BHA
+BEN-0159,Burkina Faso,Nord,Health,MSF,INGO,Female,6-17,Refugee,2024-01-30,EU
+BEN-0160,Niger,Niamey,Food Security,ACF,INGO,Female,18-59,IDP,2024-08-24,NORAD
+BEN-0161,Senegal,Thiès,Shelter,MENA,Government,Male,60+,IDP,2024-08-18,EU
+BEN-0162,Niger,Niamey,Health,SPONG,NGO,Male,18-59,Host Community,2024-08-12,OCHA
+BEN-0163,Niger,Maradi,Protection,MASF,Government,Female,18-59,Refugee,2025-02-08,USAID
+BEN-0164,Niger,Niamey,Health,MASF,Government,Female,18-59,Host Community,2024-12-02,OCHA
+BEN-0165,Burkina Faso,Cascades,Food Security,AMADE,NGO,Female,60+,Returnee,2024-12-23,UNICEF
+BEN-0166,Senegal,Dakar,Shelter,MASF,Government,Male,18-59,IDP,2025-02-28,GFFO
+BEN-0167,Chad,Kanem,Shelter,MSF,INGO,Female,0-5,Refugee,2024-04-19,EU
+BEN-0168,Chad,Lac,WASH,CREDO,NGO,Male,6-17,IDP,2025-02-07,BHA
+BEN-0169,Senegal,Louga,Nutrition,FAO,UN Agency,Male,18-59,Host Community,2024-03-19,UNICEF
+BEN-0170,Senegal,Thiès,Food Security,DREP,Government,Female,6-17,Host Community,2025-01-03,NORAD
+BEN-0171,Senegal,Saint-Louis,Education,DNDS,Government,Female,6-17,Returnee,2025-02-18,EU
+BEN-0172,Mali,Gao,Food Security,MSHP,Government,Female,18-59,Returnee,2024-09-14,UNICEF
+BEN-0173,Mali,Segou,WASH,UNICEF,UN Agency,Female,6-17,IDP,2024-07-09,GFFO
+BEN-0174,Senegal,Dakar,Shelter,Oxfam,INGO,Female,6-17,Host Community,2024-09-19,EU
+BEN-0175,Chad,N'Djamena,WASH,MASF,Government,Male,6-17,Refugee,2024-07-21,UNICEF
+BEN-0176,Chad,N'Djamena,Shelter,SPONG,NGO,Female,60+,Refugee,2025-03-05,EU
+BEN-0177,Mali,Mopti,Nutrition,WHO,UN Agency,Female,18-59,Returnee,2025-01-23,NORAD
+BEN-0178,Senegal,Dakar,Nutrition,MSF,INGO,Male,18-59,Returnee,2024-10-07,USAID
+BEN-0179,Niger,Zinder,Shelter,IRC,INGO,Male,6-17,Returnee,2025-02-10,USAID
+BEN-0180,Burkina Faso,Est,Health,ACF,INGO,Female,6-17,Refugee,2024-03-14,NORAD
+BEN-0181,Burkina Faso,Cascades,Shelter,CISV,NGO,Female,0-5,IDP,2024-12-08,BHA
+BEN-0182,Niger,Niamey,Health,Save the Children,INGO,Female,0-5,Refugee,2024-07-17,OCHA
+BEN-0183,Burkina Faso,Nord,Education,MSF,INGO,Male,18-59,IDP,2024-11-17,EU
+BEN-0184,Senegal,Saint-Louis,WASH,MSF,INGO,Female,6-17,Host Community,2024-11-25,EU
+BEN-0185,Chad,Borkou,Food Security,CREDO,NGO,Male,18-59,IDP,2024-08-22,OCHA
+BEN-0186,Mali,Bamako,Education,SPONG,NGO,Female,60+,Returnee,2024-09-20,EU
+BEN-0187,Senegal,Ziguinchor,Shelter,Oxfam,INGO,Female,6-17,IDP,2025-02-03,EU
+BEN-0188,Niger,Maradi,Nutrition,WHO,UN Agency,Female,18-59,Refugee,2024-07-16,UNICEF
+BEN-0189,Chad,Borkou,Shelter,UNICEF,UN Agency,Female,6-17,Host Community,2024-08-08,BHA
+BEN-0190,Niger,Maradi,Nutrition,MSF,INGO,Female,6-17,Returnee,2024-08-16,UNICEF
+BEN-0191,Chad,Ouaddai,Protection,MSF,INGO,Female,60+,IDP,2024-05-20,USAID
+BEN-0192,Chad,Ouaddai,Health,SPONG,NGO,Male,18-59,Returnee,2024-12-13,USAID
+BEN-0193,Mali,Bamako,WASH,UNHCR,UN Agency,Female,60+,Host Community,2024-01-17,GFFO
+BEN-0194,Chad,Ouaddai,Shelter,DREP,Government,Female,0-5,Returnee,2024-07-06,OCHA
+BEN-0195,Niger,Zinder,Nutrition,Oxfam,INGO,Female,18-59,IDP,2024-10-14,OCHA
+BEN-0196,Niger,Agadez,WASH,WHO,UN Agency,Male,0-5,IDP,2025-03-12,NORAD
+BEN-0197,Mali,Tombouctou,Nutrition,UNHCR,UN Agency,Female,0-5,Refugee,2024-10-04,OCHA
+BEN-0198,Mali,Mopti,Education,FAO,UN Agency,Male,0-5,Host Community,2024-04-12,UNICEF
+BEN-0199,Chad,N'Djamena,Shelter,WHO,UN Agency,Female,0-5,IDP,2024-02-14,OCHA
+BEN-0200,Chad,Borkou,Health,MSHP,Government,Female,0-5,IDP,2024-06-11,NORAD
+BEN-0201,Chad,Kanem,Shelter,CISV,NGO,Female,18-59,Host Community,2025-01-28,NORAD
+BEN-0202,Senegal,Dakar,Education,ACF,INGO,Male,6-17,Refugee,2024-03-23,GFFO
+BEN-0203,Mali,Gao,Health,UNICEF,UN Agency,Female,0-5,Refugee,2024-10-09,UNICEF
+BEN-0204,Niger,Diffa,Health,ACF,INGO,Female,0-5,Host Community,2024-10-24,UNICEF
+BEN-0205,Senegal,Louga,Shelter,IRC,INGO,Male,0-5,Refugee,2024-11-24,GFFO
+BEN-0206,Mali,Segou,Protection,Save the Children,INGO,Female,18-59,Refugee,2024-11-24,NORAD
+BEN-0207,Mali,Tombouctou,Shelter,DREP,Government,Female,0-5,Returnee,2024-08-13,NORAD
+BEN-0208,Chad,Lac,Shelter,AMADE,NGO,Female,6-17,Refugee,2025-03-16,NORAD
+BEN-0209,Mali,Gao,Health,MSF,INGO,Male,6-17,Returnee,2024-05-16,UNICEF
+BEN-0210,Mali,Bamako,Nutrition,WHO,UN Agency,Female,6-17,Host Community,2025-03-19,EU
+BEN-0211,Niger,Diffa,Food Security,WFP,UN Agency,Male,6-17,Returnee,2024-09-20,NORAD
+BEN-0212,Niger,Agadez,Nutrition,Save the Children,INGO,Female,6-17,Host Community,2024-05-03,BHA
+BEN-0213,Niger,Niamey,Nutrition,WHO,UN Agency,Female,18-59,Returnee,2024-11-30,OCHA
+BEN-0214,Senegal,Dakar,Education,Save the Children,INGO,Male,18-59,Refugee,2025-01-07,EU
+BEN-0215,Chad,Ouaddai,Nutrition,DREP,Government,Female,18-59,Refugee,2024-07-04,USAID
+BEN-0216,Chad,Kanem,Protection,FAO,UN Agency,Female,18-59,IDP,2024-03-06,NORAD
+BEN-0217,Niger,Maradi,Health,WFP,UN Agency,Male,18-59,IDP,2024-07-24,USAID
+BEN-0218,Burkina Faso,Sahel,Food Security,WHO,UN Agency,Female,6-17,Host Community,2024-11-06,OCHA
+BEN-0219,Senegal,Saint-Louis,WASH,MENA,Government,Female,18-59,Refugee,2024-10-30,BHA
+BEN-0220,Senegal,Louga,Protection,WHO,UN Agency,Male,6-17,IDP,2024-12-10,NORAD
+BEN-0221,Senegal,Saint-Louis,Education,ACF,INGO,Female,6-17,Host Community,2024-12-01,GFFO
+BEN-0222,Burkina Faso,Cascades,Protection,CISV,NGO,Female,18-59,Returnee,2025-01-31,UNICEF
+BEN-0223,Mali,Bamako,Health,Oxfam,INGO,Male,6-17,Host Community,2024-08-02,NORAD
+BEN-0224,Mali,Tombouctou,Health,DREP,Government,Female,0-5,Refugee,2024-04-16,GFFO
+BEN-0225,Chad,Kanem,Protection,WFP,UN Agency,Female,60+,Refugee,2024-06-24,GFFO
+BEN-0226,Niger,Diffa,Protection,CREDO,NGO,Female,18-59,Refugee,2024-04-25,EU
+BEN-0227,Niger,Zinder,Food Security,MASF,Government,Female,6-17,Refugee,2025-02-11,OCHA
+BEN-0228,Burkina Faso,Cascades,Food Security,MSHP,Government,Female,60+,Host Community,2025-02-15,OCHA
+BEN-0229,Burkina Faso,Nord,Food Security,MSF,INGO,Female,18-59,Returnee,2025-01-17,UNICEF
+BEN-0230,Mali,Segou,Shelter,WFP,UN Agency,Male,18-59,Host Community,2024-10-27,UNICEF
+BEN-0231,Burkina Faso,Cascades,WASH,SPONG,NGO,Male,6-17,Returnee,2025-01-02,USAID
+BEN-0232,Mali,Bamako,Health,AFRIQUE ESPOIR,NGO,Female,60+,Returnee,2025-03-25,NORAD
+BEN-0233,Mali,Gao,Shelter,UNICEF,UN Agency,Male,18-59,IDP,2024-04-28,UNICEF
+BEN-0234,Chad,Lac,Nutrition,MSHP,Government,Male,60+,Refugee,2025-03-22,USAID
+BEN-0235,Burkina Faso,Nord,Health,MSF,INGO,Female,6-17,Returnee,2024-11-24,UNICEF
+BEN-0236,Senegal,Ziguinchor,Shelter,SPONG,NGO,Female,0-5,Refugee,2024-08-22,GFFO
+BEN-0237,Mali,Bamako,Food Security,UNHCR,UN Agency,Female,18-59,Host Community,2024-04-08,BHA
+BEN-0238,Chad,Borkou,Health,UNICEF,UN Agency,Female,18-59,Host Community,2024-04-04,NORAD
+BEN-0239,Niger,Zinder,Nutrition,WHO,UN Agency,Male,6-17,Refugee,2024-05-16,OCHA
+BEN-0240,Senegal,Louga,Nutrition,UNHCR,UN Agency,Female,6-17,IDP,2024-12-07,NORAD
+BEN-0241,Niger,Zinder,Protection,UNICEF,UN Agency,Female,60+,Refugee,2024-05-31,BHA
+BEN-0242,Mali,Mopti,WASH,DNDS,Government,Female,18-59,Refugee,2024-11-06,NORAD
+BEN-0243,Senegal,Ziguinchor,Education,CREDO,NGO,Female,18-59,IDP,2025-03-23,BHA
+BEN-0244,Chad,Kanem,Food Security,UNICEF,UN Agency,Female,0-5,Host Community,2025-02-28,BHA
+BEN-0245,Senegal,Thiès,WASH,FAO,UN Agency,Female,0-5,Returnee,2024-04-15,USAID
+BEN-0246,Senegal,Ziguinchor,Education,Save the Children,INGO,Male,18-59,IDP,2024-08-21,BHA
+BEN-0247,Chad,Ouaddai,Food Security,Save the Children,INGO,Female,18-59,Host Community,2025-01-16,BHA
+BEN-0248,Burkina Faso,Centre,Protection,UNICEF,UN Agency,Female,60+,Returnee,2024-02-05,USAID
+BEN-0249,Niger,Agadez,WASH,AFRIQUE ESPOIR,NGO,Female,60+,Returnee,2024-07-14,EU
+BEN-0250,Chad,Borkou,Nutrition,AMADE,NGO,Male,0-5,Returnee,2024-10-02,BHA
+BEN-0251,Mali,Mopti,Education,IRC,INGO,Female,6-17,Returnee,2025-01-03,BHA
+BEN-0252,Chad,Lac,WASH,MASF,Government,Male,6-17,IDP,2025-03-24,USAID
+BEN-0253,Chad,Kanem,Education,Oxfam,INGO,Male,0-5,IDP,2024-10-31,NORAD
+BEN-0254,Senegal,Dakar,WASH,Save the Children,INGO,Female,6-17,IDP,2024-04-21,UNICEF
+BEN-0255,Senegal,Saint-Louis,WASH,FAO,UN Agency,Female,18-59,Refugee,2025-02-23,UNICEF
+BEN-0256,Niger,Zinder,Food Security,AFRIQUE ESPOIR,NGO,Female,6-17,Host Community,2024-10-12,GFFO
+BEN-0257,Chad,Kanem,Protection,MSF,INGO,Female,18-59,Refugee,2025-02-06,GFFO
+BEN-0258,Chad,Borkou,WASH,WHO,UN Agency,Male,18-59,Host Community,2024-08-30,EU
+BEN-0259,Mali,Gao,Education,AFRIQUE ESPOIR,NGO,Male,18-59,Host Community,2024-08-01,NORAD
+BEN-0260,Mali,Gao,WASH,UNICEF,UN Agency,Female,18-59,Host Community,2024-02-17,USAID
+BEN-0261,Niger,Agadez,Food Security,IRC,INGO,Male,18-59,Host Community,2024-10-27,NORAD
+BEN-0262,Mali,Gao,Shelter,Oxfam,INGO,Male,60+,Returnee,2024-03-01,UNICEF
+BEN-0263,Senegal,Thiès,Protection,CISV,NGO,Female,18-59,Returnee,2024-07-13,BHA
+BEN-0264,Niger,Maradi,Shelter,FAO,UN Agency,Female,6-17,Returnee,2025-02-15,EU
+BEN-0265,Niger,Zinder,Shelter,WHO,UN Agency,Male,18-59,Host Community,2024-04-23,USAID
+BEN-0266,Niger,Diffa,Health,MASF,Government,Male,0-5,Returnee,2024-04-27,BHA
+BEN-0267,Mali,Tombouctou,Health,UNHCR,UN Agency,Female,60+,Returnee,2024-11-24,NORAD
+BEN-0268,Mali,Gao,WASH,CISV,NGO,Female,0-5,IDP,2024-10-04,BHA
+BEN-0269,Burkina Faso,Centre,Education,IRC,INGO,Female,0-5,Host Community,2024-11-18,USAID
+BEN-0270,Mali,Bamako,WASH,MASF,Government,Male,18-59,Returnee,2024-12-07,GFFO
+BEN-0271,Chad,N'Djamena,Nutrition,DREP,Government,Male,18-59,Refugee,2024-05-20,USAID
+BEN-0272,Senegal,Ziguinchor,Education,SPONG,NGO,Male,18-59,Host Community,2024-05-03,BHA
+BEN-0273,Senegal,Saint-Louis,Education,UNHCR,UN Agency,Female,0-5,Returnee,2024-07-26,BHA
+BEN-0274,Mali,Mopti,Shelter,IRC,INGO,Male,6-17,Returnee,2024-07-12,USAID
+BEN-0275,Burkina Faso,Sahel,Nutrition,MSHP,Government,Female,18-59,IDP,2024-10-16,BHA
+BEN-0276,Burkina Faso,Sahel,WASH,MASF,Government,Male,60+,Refugee,2024-12-16,BHA
+BEN-0277,Senegal,Dakar,WASH,UNICEF,UN Agency,Male,18-59,Returnee,2025-01-20,USAID
+BEN-0278,Niger,Zinder,Health,CISV,NGO,Female,18-59,Refugee,2024-10-03,NORAD
+BEN-0279,Mali,Bamako,Health,UNICEF,UN Agency,Male,6-17,IDP,2025-03-05,OCHA
+BEN-0280,Senegal,Louga,Health,MASF,Government,Male,18-59,Returnee,2025-02-05,NORAD
+BEN-0281,Mali,Gao,Health,MSHP,Government,Male,18-59,Returnee,2024-12-04,USAID
+BEN-0282,Senegal,Saint-Louis,Education,SPONG,NGO,Male,6-17,Host Community,2024-07-13,GFFO
+BEN-0283,Chad,Ouaddai,Shelter,IRC,INGO,Male,60+,Refugee,2024-08-15,EU
+BEN-0284,Niger,Niamey,WASH,Oxfam,INGO,Female,6-17,Returnee,2024-10-11,USAID
+BEN-0285,Burkina Faso,Centre,Shelter,ACF,INGO,Female,18-59,Returnee,2025-03-18,USAID
+BEN-0286,Niger,Agadez,Protection,ACF,INGO,Male,18-59,Returnee,2024-03-27,UNICEF
+BEN-0287,Mali,Gao,Shelter,WHO,UN Agency,Male,0-5,Refugee,2024-08-10,NORAD
+BEN-0288,Niger,Agadez,Education,MSF,INGO,Female,60+,Returnee,2025-01-04,BHA
+BEN-0289,Senegal,Thiès,Protection,Oxfam,INGO,Female,0-5,Refugee,2024-07-21,EU
+BEN-0290,Senegal,Ziguinchor,Education,WHO,UN Agency,Female,6-17,Host Community,2025-02-25,OCHA
+BEN-0291,Niger,Diffa,Food Security,AFRIQUE ESPOIR,NGO,Female,0-5,Refugee,2024-07-22,OCHA
+BEN-0292,Chad,Kanem,Education,AMADE,NGO,Female,6-17,Returnee,2025-02-06,OCHA
+BEN-0293,Burkina Faso,Cascades,WASH,CISV,NGO,Male,60+,Host Community,2024-08-24,NORAD
+BEN-0294,Niger,Niamey,Education,MSHP,Government,Male,18-59,Refugee,2024-05-03,GFFO
+BEN-0295,Mali,Tombouctou,Education,DREP,Government,Female,60+,Returnee,2024-09-02,BHA
+BEN-0296,Senegal,Ziguinchor,Health,MSF,INGO,Female,18-59,IDP,2024-10-01,USAID
+BEN-0297,Mali,Gao,WASH,ACF,INGO,Female,18-59,Refugee,2024-07-23,EU
+BEN-0298,Chad,N'Djamena,Nutrition,MSF,INGO,Male,18-59,Host Community,2024-09-22,NORAD
+BEN-0299,Niger,Agadez,Protection,AMADE,NGO,Male,6-17,Returnee,2024-05-31,USAID
+BEN-0300,Burkina Faso,Sahel,Shelter,UNHCR,UN Agency,Female,18-59,Returnee,2024-09-23,OCHA
+BEN-0301,Chad,N'Djamena,Protection,MASF,Government,Male,6-17,IDP,2025-02-18,USAID
+BEN-0302,Niger,Niamey,Food Security,CREDO,NGO,Female,0-5,Refugee,2024-03-22,BHA
+BEN-0303,Chad,Borkou,WASH,DNDS,Government,Male,18-59,Returnee,2024-08-09,USAID
+BEN-0304,Senegal,Thiès,Protection,MSHP,Government,Male,18-59,Refugee,2024-04-15,EU
+BEN-0305,Burkina Faso,Cascades,Nutrition,AMADE,NGO,Female,0-5,Refugee,2024-02-28,GFFO
+BEN-0306,Chad,Kanem,Food Security,FAO,UN Agency,Female,18-59,IDP,2024-10-27,OCHA
+BEN-0307,Niger,Agadez,Health,AMADE,NGO,Female,18-59,Host Community,2024-12-10,OCHA
+BEN-0308,Burkina Faso,Sahel,Shelter,Oxfam,INGO,Female,18-59,Returnee,2024-09-18,NORAD
+BEN-0309,Senegal,Thiès,Health,MSHP,Government,Male,6-17,Host Community,2024-10-02,BHA
+BEN-0310,Mali,Tombouctou,Shelter,CREDO,NGO,Female,18-59,IDP,2024-11-13,EU
+BEN-0311,Niger,Niamey,Protection,CREDO,NGO,Female,60+,Returnee,2024-09-15,NORAD
+BEN-0312,Chad,Borkou,Food Security,MSHP,Government,Male,0-5,Host Community,2024-01-16,OCHA
+BEN-0313,Burkina Faso,Nord,WASH,WFP,UN Agency,Female,18-59,Returnee,2025-01-30,BHA
+BEN-0314,Senegal,Dakar,Health,MSF,INGO,Female,18-59,IDP,2024-07-06,EU
+BEN-0315,Chad,Kanem,WASH,DREP,Government,Female,18-59,Host Community,2025-01-19,OCHA
+BEN-0316,Burkina Faso,Est,Shelter,UNICEF,UN Agency,Female,18-59,Host Community,2024-03-01,UNICEF
+BEN-0317,Senegal,Saint-Louis,Education,DNDS,Government,Female,0-5,Host Community,2024-04-15,EU
+BEN-0318,Burkina Faso,Cascades,Shelter,FAO,UN Agency,Female,0-5,Refugee,2024-12-26,OCHA
+BEN-0319,Senegal,Saint-Louis,Education,Oxfam,INGO,Female,60+,Host Community,2024-05-21,GFFO
+BEN-0320,Mali,Mopti,WASH,WFP,UN Agency,Female,6-17,Refugee,2024-03-13,GFFO
+BEN-0321,Chad,Borkou,Protection,IRC,INGO,Female,18-59,Refugee,2024-05-22,NORAD
+BEN-0322,Chad,Ouaddai,Health,IRC,INGO,Female,60+,Refugee,2024-11-21,EU
+BEN-0323,Burkina Faso,Cascades,Protection,AFRIQUE ESPOIR,NGO,Male,6-17,Refugee,2024-06-14,OCHA
+BEN-0324,Senegal,Louga,WASH,MASF,Government,Female,18-59,IDP,2024-01-24,GFFO
+BEN-0325,Chad,N'Djamena,Nutrition,AFRIQUE ESPOIR,NGO,Female,0-5,Host Community,2024-08-07,GFFO
+BEN-0326,Mali,Gao,WASH,UNICEF,UN Agency,Female,6-17,Refugee,2024-02-12,GFFO
+BEN-0327,Mali,Bamako,Protection,WFP,UN Agency,Female,18-59,IDP,2024-12-26,USAID
+BEN-0328,Mali,Tombouctou,Nutrition,CISV,NGO,Male,18-59,IDP,2024-08-15,USAID
+BEN-0329,Niger,Niamey,Education,DNDS,Government,Female,0-5,IDP,2024-07-15,GFFO
+BEN-0330,Burkina Faso,Centre,Shelter,UNHCR,UN Agency,Male,6-17,Host Community,2025-02-20,GFFO
+BEN-0331,Mali,Bamako,Health,ACF,INGO,Female,0-5,Host Community,2024-06-28,GFFO
+BEN-0332,Mali,Tombouctou,Health,DNDS,Government,Male,18-59,IDP,2024-03-12,BHA
+BEN-0333,Chad,Ouaddai,Protection,WFP,UN Agency,Male,6-17,Host Community,2024-02-13,BHA
+BEN-0334,Senegal,Louga,Food Security,UNICEF,UN Agency,Female,18-59,Host Community,2024-04-15,GFFO
+BEN-0335,Chad,Ouaddai,Food Security,Oxfam,INGO,Female,6-17,Returnee,2024-05-03,GFFO
+BEN-0336,Senegal,Dakar,Health,MSF,INGO,Female,0-5,Returnee,2025-03-16,OCHA
+BEN-0337,Senegal,Thiès,Education,DREP,Government,Male,18-59,Refugee,2024-01-08,UNICEF
+BEN-0338,Burkina Faso,Centre,Education,MENA,Government,Female,18-59,Returnee,2024-09-13,NORAD
+BEN-0339,Chad,N'Djamena,Food Security,AMADE,NGO,Male,6-17,Host Community,2024-09-18,EU
+BEN-0340,Mali,Segou,Shelter,MENA,Government,Female,18-59,IDP,2024-11-28,OCHA
+BEN-0341,Chad,Lac,Nutrition,SPONG,NGO,Female,0-5,IDP,2024-11-09,OCHA
+BEN-0342,Mali,Bamako,Nutrition,SPONG,NGO,Male,6-17,Refugee,2024-06-26,UNICEF
+BEN-0343,Niger,Zinder,Food Security,UNICEF,UN Agency,Male,6-17,Refugee,2024-08-07,BHA
+BEN-0344,Burkina Faso,Nord,Food Security,Save the Children,INGO,Female,18-59,Returnee,2024-01-29,EU
+BEN-0345,Senegal,Thiès,Shelter,AMADE,NGO,Male,18-59,IDP,2024-12-11,UNICEF
+BEN-0346,Senegal,Dakar,Nutrition,Oxfam,INGO,Male,6-17,Host Community,2024-07-15,UNICEF
+BEN-0347,Burkina Faso,Cascades,Education,DNDS,Government,Female,6-17,Refugee,2025-01-03,OCHA
+BEN-0348,Burkina Faso,Cascades,Shelter,ACF,INGO,Female,60+,Host Community,2024-04-01,EU
+BEN-0349,Senegal,Dakar,Protection,Save the Children,INGO,Female,18-59,Refugee,2024-06-08,USAID
+BEN-0350,Senegal,Ziguinchor,Nutrition,WFP,UN Agency,Female,18-59,Host Community,2024-06-04,NORAD
+BEN-0351,Niger,Diffa,Protection,CISV,NGO,Male,0-5,IDP,2024-07-28,UNICEF
+BEN-0352,Senegal,Saint-Louis,Food Security,MSF,INGO,Male,18-59,Refugee,2024-07-11,USAID
+BEN-0353,Mali,Segou,WASH,MSHP,Government,Male,60+,Refugee,2024-03-13,USAID
+BEN-0354,Burkina Faso,Sahel,Education,MASF,Government,Female,60+,IDP,2024-02-13,BHA
+BEN-0355,Mali,Tombouctou,Nutrition,Save the Children,INGO,Female,60+,Refugee,2024-05-01,OCHA
+BEN-0356,Niger,Agadez,Food Security,UNHCR,UN Agency,Female,6-17,Host Community,2024-02-08,UNICEF
+BEN-0357,Senegal,Dakar,WASH,Oxfam,INGO,Female,6-17,IDP,2024-07-27,BHA
+BEN-0358,Niger,Zinder,Protection,WHO,UN Agency,Female,18-59,Host Community,2024-02-16,EU
+BEN-0359,Niger,Diffa,Nutrition,AMADE,NGO,Male,0-5,Refugee,2024-05-07,NORAD
+BEN-0360,Senegal,Dakar,Food Security,UNHCR,UN Agency,Male,0-5,Returnee,2024-07-26,BHA
+BEN-0361,Senegal,Thiès,Nutrition,DREP,Government,Male,0-5,Host Community,2024-02-01,UNICEF
+BEN-0362,Mali,Tombouctou,Shelter,ACF,INGO,Female,6-17,IDP,2025-02-20,USAID
+BEN-0363,Burkina Faso,Sahel,Food Security,DNDS,Government,Male,60+,Refugee,2025-02-28,USAID
+BEN-0364,Burkina Faso,Est,Nutrition,CISV,NGO,Female,18-59,Returnee,2024-07-21,USAID
+BEN-0365,Chad,Borkou,WASH,WFP,UN Agency,Male,6-17,Host Community,2024-08-16,USAID
+BEN-0366,Senegal,Louga,Health,AMADE,NGO,Female,6-17,Returnee,2024-10-08,USAID
+BEN-0367,Burkina Faso,Nord,Protection,AFRIQUE ESPOIR,NGO,Male,18-59,Host Community,2025-02-12,GFFO
+BEN-0368,Senegal,Dakar,Protection,WHO,UN Agency,Female,18-59,Refugee,2024-06-25,NORAD
+BEN-0369,Niger,Zinder,Nutrition,FAO,UN Agency,Male,0-5,Refugee,2025-02-19,USAID
+BEN-0370,Chad,Kanem,Shelter,CREDO,NGO,Male,6-17,Refugee,2024-05-03,BHA
+BEN-0371,Burkina Faso,Sahel,Health,MASF,Government,Male,0-5,Refugee,2024-10-30,EU
+BEN-0372,Niger,Diffa,Nutrition,FAO,UN Agency,Female,0-5,Returnee,2024-04-06,BHA
+BEN-0373,Niger,Zinder,Protection,IRC,INGO,Male,6-17,IDP,2024-04-22,BHA
+BEN-0374,Chad,N'Djamena,Shelter,CREDO,NGO,Female,18-59,Refugee,2025-02-14,USAID
+BEN-0375,Burkina Faso,Sahel,Health,SPONG,NGO,Female,18-59,Refugee,2024-02-07,GFFO
+BEN-0376,Chad,Kanem,Nutrition,UNHCR,UN Agency,Female,0-5,Returnee,2024-03-21,EU
+BEN-0377,Chad,Ouaddai,WASH,WFP,UN Agency,Female,18-59,Returnee,2024-03-30,OCHA
+BEN-0378,Niger,Zinder,WASH,ACF,INGO,Female,18-59,IDP,2025-01-29,UNICEF
+BEN-0379,Senegal,Saint-Louis,Education,CISV,NGO,Male,60+,Refugee,2024-03-13,GFFO
+BEN-0380,Burkina Faso,Sahel,Shelter,WFP,UN Agency,Female,18-59,Refugee,2024-02-15,NORAD
+BEN-0381,Burkina Faso,Nord,WASH,SPONG,NGO,Female,6-17,IDP,2024-02-25,USAID
+BEN-0382,Chad,Borkou,Food Security,DNDS,Government,Female,6-17,Refugee,2024-07-12,BHA
+BEN-0383,Chad,N'Djamena,Education,MENA,Government,Female,18-59,Host Community,2024-04-25,NORAD
+BEN-0384,Burkina Faso,Centre,Shelter,MSF,INGO,Female,60+,Refugee,2024-02-07,UNICEF
+BEN-0385,Chad,Lac,Food Security,ACF,INGO,Male,6-17,Returnee,2024-11-10,GFFO
+BEN-0386,Burkina Faso,Est,Food Security,CISV,NGO,Female,0-5,Refugee,2024-02-21,UNICEF
+BEN-0387,Mali,Tombouctou,Food Security,UNHCR,UN Agency,Female,6-17,Returnee,2024-01-26,BHA
+BEN-0388,Senegal,Ziguinchor,WASH,MSF,INGO,Male,6-17,Returnee,2024-05-30,UNICEF
+BEN-0389,Burkina Faso,Centre,WASH,AMADE,NGO,Male,6-17,Refugee,2024-02-29,EU
+BEN-0390,Chad,Borkou,Protection,UNICEF,UN Agency,Female,18-59,Refugee,2024-04-04,NORAD
+BEN-0391,Niger,Zinder,Protection,MSF,INGO,Female,6-17,Refugee,2024-04-25,BHA
+BEN-0392,Burkina Faso,Sahel,Education,IRC,INGO,Female,6-17,Returnee,2024-10-04,EU
+BEN-0393,Senegal,Thiès,Health,Save the Children,INGO,Female,6-17,Returnee,2024-10-01,BHA
+BEN-0394,Mali,Tombouctou,Shelter,Save the Children,INGO,Female,0-5,Host Community,2024-10-19,USAID
+BEN-0395,Chad,Lac,WASH,CREDO,NGO,Male,0-5,Returnee,2024-02-10,UNICEF
+BEN-0396,Mali,Segou,Shelter,UNICEF,UN Agency,Male,6-17,Refugee,2024-07-22,EU
+BEN-0397,Niger,Diffa,Protection,ACF,INGO,Female,18-59,IDP,2024-08-02,NORAD
+BEN-0398,Mali,Mopti,Health,IRC,INGO,Female,18-59,Refugee,2025-02-06,EU
+BEN-0399,Senegal,Saint-Louis,Protection,WHO,UN Agency,Female,6-17,Returnee,2024-11-07,USAID
+BEN-0400,Mali,Gao,Protection,CISV,NGO,Female,18-59,IDP,2024-07-24,NORAD
+BEN-0401,Niger,Zinder,Nutrition,MASF,Government,Female,0-5,Refugee,2025-02-22,OCHA
+BEN-0402,Niger,Agadez,Education,Oxfam,INGO,Male,6-17,Returnee,2025-01-15,EU
+BEN-0403,Niger,Maradi,Food Security,MENA,Government,Female,0-5,Host Community,2024-08-14,EU
+BEN-0404,Chad,Borkou,Education,UNICEF,UN Agency,Female,18-59,Refugee,2024-02-03,GFFO
+BEN-0405,Senegal,Ziguinchor,WASH,Oxfam,INGO,Male,18-59,IDP,2024-04-12,UNICEF
+BEN-0406,Burkina Faso,Est,Nutrition,WFP,UN Agency,Female,6-17,Returnee,2024-08-25,GFFO
+BEN-0407,Burkina Faso,Centre,WASH,WHO,UN Agency,Female,6-17,Returnee,2025-03-21,BHA
+BEN-0408,Senegal,Saint-Louis,Shelter,AMADE,NGO,Female,18-59,Refugee,2024-02-16,USAID
+BEN-0409,Chad,N'Djamena,WASH,CREDO,NGO,Female,6-17,Refugee,2024-04-15,GFFO
+BEN-0410,Chad,Kanem,Nutrition,Save the Children,INGO,Male,18-59,IDP,2024-11-03,UNICEF
+BEN-0411,Niger,Diffa,Education,UNHCR,UN Agency,Female,18-59,Refugee,2025-03-12,NORAD
+BEN-0412,Niger,Zinder,Protection,FAO,UN Agency,Female,6-17,IDP,2024-02-22,BHA
+BEN-0413,Niger,Diffa,Food Security,UNHCR,UN Agency,Female,0-5,Refugee,2024-02-02,OCHA
+BEN-0414,Niger,Maradi,Shelter,WFP,UN Agency,Male,18-59,IDP,2024-05-03,EU
+BEN-0415,Senegal,Ziguinchor,Food Security,WFP,UN Agency,Female,0-5,Refugee,2024-09-11,OCHA
+BEN-0416,Chad,Borkou,Protection,ACF,INGO,Female,60+,Host Community,2025-02-21,OCHA
+BEN-0417,Mali,Segou,Food Security,MASF,Government,Female,6-17,Host Community,2024-03-28,OCHA
+BEN-0418,Burkina Faso,Est,WASH,FAO,UN Agency,Male,60+,IDP,2024-06-20,UNICEF
+BEN-0419,Niger,Zinder,Food Security,WHO,UN Agency,Female,6-17,Refugee,2024-10-26,NORAD
+BEN-0420,Burkina Faso,Est,Nutrition,Save the Children,INGO,Male,18-59,Returnee,2025-03-20,BHA
+BEN-0421,Niger,Agadez,Nutrition,CREDO,NGO,Male,6-17,Returnee,2024-10-18,UNICEF
+BEN-0422,Niger,Zinder,Education,Save the Children,INGO,Female,18-59,Refugee,2024-03-31,GFFO
+BEN-0423,Burkina Faso,Centre,Protection,WFP,UN Agency,Male,18-59,Returnee,2024-03-22,EU
+BEN-0424,Burkina Faso,Sahel,Health,MSHP,Government,Female,6-17,Returnee,2024-09-01,USAID
+BEN-0425,Burkina Faso,Cascades,WASH,UNICEF,UN Agency,Female,18-59,Host Community,2024-09-28,USAID
+BEN-0426,Burkina Faso,Sahel,WASH,UNHCR,UN Agency,Male,0-5,Refugee,2024-09-14,UNICEF
+BEN-0427,Burkina Faso,Centre,Shelter,WHO,UN Agency,Female,18-59,Refugee,2024-09-25,NORAD
+BEN-0428,Mali,Gao,Protection,WFP,UN Agency,Male,60+,Returnee,2025-02-19,USAID
+BEN-0429,Mali,Mopti,Food Security,CREDO,NGO,Female,0-5,Host Community,2024-09-15,USAID
+BEN-0430,Niger,Niamey,Protection,FAO,UN Agency,Female,0-5,IDP,2024-01-25,GFFO
+BEN-0431,Burkina Faso,Centre,Food Security,Save the Children,INGO,Female,6-17,Refugee,2024-10-07,NORAD
+BEN-0432,Mali,Mopti,Food Security,MSF,INGO,Female,18-59,Refugee,2024-12-05,BHA
+BEN-0433,Senegal,Thiès,Protection,ACF,INGO,Female,18-59,IDP,2024-05-24,EU
+BEN-0434,Burkina Faso,Est,WASH,AMADE,NGO,Female,60+,Returnee,2024-07-02,OCHA
+BEN-0435,Mali,Bamako,Health,DNDS,Government,Female,60+,Host Community,2024-06-18,USAID
+BEN-0436,Burkina Faso,Centre,Nutrition,DNDS,Government,Male,18-59,IDP,2024-02-08,OCHA
+BEN-0437,Mali,Tombouctou,Shelter,WHO,UN Agency,Male,0-5,IDP,2024-03-30,EU
+BEN-0438,Niger,Maradi,Education,WHO,UN Agency,Female,0-5,IDP,2025-03-11,USAID
+BEN-0439,Mali,Mopti,Shelter,WHO,UN Agency,Female,6-17,IDP,2025-01-10,OCHA
+BEN-0440,Niger,Zinder,Nutrition,MSHP,Government,Female,6-17,Returnee,2024-07-16,EU
+BEN-0441,Chad,Lac,Nutrition,SPONG,NGO,Male,0-5,Returnee,2024-10-29,EU
+BEN-0442,Senegal,Ziguinchor,WASH,MASF,Government,Female,0-5,Host Community,2024-12-16,NORAD
+BEN-0443,Chad,N'Djamena,Protection,DREP,Government,Male,6-17,IDP,2024-06-09,GFFO
+BEN-0444,Senegal,Louga,Food Security,AMADE,NGO,Female,18-59,IDP,2024-12-24,NORAD
+BEN-0445,Mali,Tombouctou,Shelter,DNDS,Government,Female,18-59,IDP,2024-11-09,USAID
+BEN-0446,Mali,Segou,Education,MSHP,Government,Male,0-5,Refugee,2024-09-08,UNICEF
+BEN-0447,Niger,Maradi,Nutrition,CISV,NGO,Female,6-17,Host Community,2025-02-22,USAID
+BEN-0448,Chad,Borkou,Education,DREP,Government,Female,6-17,Returnee,2024-03-01,GFFO
+BEN-0449,Burkina Faso,Centre,Protection,DREP,Government,Female,18-59,IDP,2025-02-26,EU
+BEN-0450,Senegal,Louga,Food Security,FAO,UN Agency,Female,6-17,Returnee,2024-12-09,OCHA
+BEN-0451,Niger,Niamey,Education,AFRIQUE ESPOIR,NGO,Female,18-59,Returnee,2024-11-13,GFFO
+BEN-0452,Niger,Agadez,Nutrition,Oxfam,INGO,Male,6-17,Refugee,2025-02-28,BHA
+BEN-0453,Senegal,Saint-Louis,Food Security,IRC,INGO,Male,6-17,Returnee,2025-02-24,USAID
+BEN-0454,Niger,Diffa,WASH,SPONG,NGO,Female,6-17,Host Community,2025-02-26,GFFO
+BEN-0455,Niger,Niamey,Education,DREP,Government,Female,18-59,IDP,2024-10-28,EU
+BEN-0456,Chad,Borkou,Food Security,AFRIQUE ESPOIR,NGO,Male,18-59,Returnee,2024-01-25,EU
+BEN-0457,Senegal,Ziguinchor,Health,CISV,NGO,Male,18-59,IDP,2024-03-06,NORAD
+BEN-0458,Senegal,Louga,Shelter,MSHP,Government,Female,60+,Host Community,2025-01-25,OCHA
+BEN-0459,Chad,Ouaddai,Shelter,DNDS,Government,Male,6-17,Refugee,2024-12-24,EU
+BEN-0460,Senegal,Saint-Louis,Food Security,CREDO,NGO,Male,18-59,Refugee,2024-05-28,GFFO
+BEN-0461,Mali,Mopti,Health,UNICEF,UN Agency,Female,18-59,Returnee,2024-10-25,GFFO
+BEN-0462,Senegal,Saint-Louis,Education,DREP,Government,Female,0-5,Host Community,2024-07-14,USAID
+BEN-0463,Burkina Faso,Sahel,Shelter,AMADE,NGO,Female,6-17,IDP,2025-03-05,GFFO
+BEN-0464,Niger,Zinder,Education,MSF,INGO,Female,0-5,Host Community,2025-03-20,GFFO
+BEN-0465,Senegal,Ziguinchor,WASH,UNICEF,UN Agency,Female,6-17,Refugee,2025-02-07,BHA
+BEN-0466,Burkina Faso,Centre,Food Security,WFP,UN Agency,Female,18-59,Returnee,2025-03-16,EU
+BEN-0467,Mali,Gao,Education,CREDO,NGO,Female,6-17,IDP,2024-12-15,UNICEF
+BEN-0468,Mali,Segou,Nutrition,DREP,Government,Female,6-17,Host Community,2024-05-15,UNICEF
+BEN-0469,Senegal,Saint-Louis,Nutrition,WHO,UN Agency,Female,60+,Host Community,2024-01-21,OCHA
+BEN-0470,Senegal,Dakar,Education,WHO,UN Agency,Female,18-59,Refugee,2024-02-07,BHA
+BEN-0471,Mali,Mopti,Health,ACF,INGO,Male,6-17,Returnee,2024-10-01,USAID
+BEN-0472,Niger,Zinder,WASH,UNHCR,UN Agency,Female,6-17,Returnee,2025-01-20,BHA
+BEN-0473,Burkina Faso,Centre,Food Security,WHO,UN Agency,Male,60+,Host Community,2024-11-10,USAID
+BEN-0474,Niger,Agadez,Education,Save the Children,INGO,Female,18-59,IDP,2024-05-24,BHA
+BEN-0475,Niger,Diffa,Education,MSHP,Government,Male,6-17,Host Community,2024-11-29,OCHA
+BEN-0476,Senegal,Dakar,Nutrition,CISV,NGO,Female,0-5,Host Community,2024-02-03,GFFO
+BEN-0477,Mali,Tombouctou,Education,Oxfam,INGO,Female,18-59,Returnee,2025-03-25,GFFO
+BEN-0478,Burkina Faso,Sahel,Nutrition,MASF,Government,Male,0-5,Host Community,2024-01-28,EU
+BEN-0479,Niger,Diffa,Nutrition,AMADE,NGO,Female,6-17,Returnee,2024-11-18,NORAD
+BEN-0480,Niger,Niamey,Protection,ACF,INGO,Male,18-59,IDP,2024-11-12,EU
+BEN-0481,Senegal,Dakar,Food Security,MSF,INGO,Female,0-5,Refugee,2025-02-06,BHA
+BEN-0482,Burkina Faso,Nord,Education,MSHP,Government,Female,18-59,Returnee,2024-01-16,UNICEF
+BEN-0483,Senegal,Thiès,WASH,MENA,Government,Female,60+,Refugee,2024-03-14,GFFO
+BEN-0484,Niger,Niamey,Health,SPONG,NGO,Male,0-5,Returnee,2024-11-01,BHA
+BEN-0485,Senegal,Dakar,Shelter,AMADE,NGO,Male,6-17,Host Community,2024-11-26,UNICEF
+BEN-0486,Mali,Mopti,Health,WFP,UN Agency,Male,0-5,IDP,2025-02-13,EU
+BEN-0487,Senegal,Ziguinchor,Food Security,MSF,INGO,Female,0-5,Host Community,2024-02-20,GFFO
+BEN-0488,Senegal,Ziguinchor,Shelter,WFP,UN Agency,Female,18-59,Refugee,2024-02-21,BHA
+BEN-0489,Burkina Faso,Sahel,Shelter,MSHP,Government,Female,18-59,Host Community,2024-06-05,BHA
+BEN-0490,Senegal,Saint-Louis,Education,WHO,UN Agency,Male,0-5,Host Community,2024-05-06,GFFO
+BEN-0491,Chad,Ouaddai,Education,WFP,UN Agency,Female,18-59,Returnee,2025-03-25,NORAD
+BEN-0492,Chad,Ouaddai,Education,WHO,UN Agency,Female,0-5,IDP,2024-11-26,EU
+BEN-0493,Niger,Zinder,Health,AMADE,NGO,Female,18-59,IDP,2024-02-09,USAID
+BEN-0494,Senegal,Dakar,Education,MENA,Government,Male,60+,Refugee,2024-10-09,BHA
+BEN-0495,Senegal,Ziguinchor,Food Security,AMADE,NGO,Female,6-17,Refugee,2025-01-30,UNICEF
+BEN-0496,Chad,Kanem,Health,Save the Children,INGO,Female,18-59,Host Community,2024-12-05,EU
+BEN-0497,Senegal,Thiès,Education,AFRIQUE ESPOIR,NGO,Male,0-5,Host Community,2024-10-16,GFFO
+BEN-0498,Chad,Ouaddai,Nutrition,AFRIQUE ESPOIR,NGO,Male,0-5,Host Community,2024-07-08,USAID
+BEN-0499,Mali,Segou,Education,WHO,UN Agency,Female,60+,IDP,2024-01-24,GFFO
+BEN-0500,Niger,Niamey,Food Security,UNHCR,UN Agency,Female,18-59,Returnee,2024-03-30,GFFO
+BEN-0501,Chad,Ouaddai,Health,ACF,INGO,Female,6-17,Returnee,2024-04-24,OCHA
+BEN-0502,Niger,Agadez,Education,MENA,Government,Male,18-59,Returnee,2024-03-12,UNICEF
+BEN-0503,Mali,Bamako,Health,WFP,UN Agency,Male,0-5,IDP,2024-07-04,GFFO
+BEN-0504,Mali,Tombouctou,Education,UNICEF,UN Agency,Female,18-59,Host Community,2024-09-02,BHA
+BEN-0505,Mali,Tombouctou,Nutrition,SPONG,NGO,Male,18-59,Host Community,2024-03-23,GFFO
+BEN-0506,Senegal,Dakar,Health,SPONG,NGO,Male,6-17,Returnee,2024-04-02,BHA
+BEN-0507,Senegal,Dakar,Food Security,UNICEF,UN Agency,Male,6-17,Returnee,2024-08-29,UNICEF
+BEN-0508,Mali,Tombouctou,Health,CISV,NGO,Male,18-59,Refugee,2024-09-18,UNICEF
+BEN-0509,Niger,Agadez,Health,Oxfam,INGO,Female,6-17,IDP,2024-02-25,UNICEF
+BEN-0510,Senegal,Louga,Food Security,DNDS,Government,Female,0-5,IDP,2024-08-31,EU
+BEN-0511,Senegal,Louga,Education,IRC,INGO,Female,18-59,IDP,2024-11-04,EU
+BEN-0512,Chad,Kanem,Protection,UNICEF,UN Agency,Female,18-59,Returnee,2024-04-27,EU
+BEN-0513,Chad,Ouaddai,Health,Save the Children,INGO,Male,6-17,Host Community,2025-01-27,EU
+BEN-0514,Burkina Faso,Nord,Health,MASF,Government,Male,0-5,IDP,2025-01-15,BHA
+BEN-0515,Senegal,Dakar,Health,Save the Children,INGO,Female,6-17,Refugee,2025-02-15,NORAD
+BEN-0516,Niger,Niamey,WASH,MENA,Government,Female,6-17,Returnee,2024-10-01,BHA
+BEN-0517,Niger,Diffa,Shelter,DNDS,Government,Female,18-59,Returnee,2024-10-12,UNICEF
+BEN-0518,Niger,Diffa,Health,MASF,Government,Female,18-59,Returnee,2025-01-31,GFFO
+BEN-0519,Mali,Bamako,Food Security,AFRIQUE ESPOIR,NGO,Female,60+,Host Community,2024-02-21,BHA
+BEN-0520,Chad,Ouaddai,Education,Oxfam,INGO,Female,60+,IDP,2024-01-03,EU
+BEN-0521,Mali,Tombouctou,Health,DREP,Government,Male,6-17,IDP,2024-07-08,BHA
+BEN-0522,Burkina Faso,Est,Protection,FAO,UN Agency,Male,60+,Host Community,2025-02-23,GFFO
+BEN-0523,Chad,Borkou,Nutrition,CISV,NGO,Female,0-5,Host Community,2025-02-05,BHA
+BEN-0524,Mali,Bamako,Shelter,SPONG,NGO,Male,0-5,Returnee,2024-05-21,OCHA
+BEN-0525,Chad,Borkou,Health,CISV,NGO,Male,18-59,IDP,2024-02-05,BHA
+BEN-0526,Niger,Diffa,Health,UNHCR,UN Agency,Female,6-17,Returnee,2024-04-09,NORAD
+BEN-0527,Senegal,Dakar,Shelter,AFRIQUE ESPOIR,NGO,Female,0-5,Refugee,2024-02-07,OCHA
+BEN-0528,Burkina Faso,Cascades,Shelter,WHO,UN Agency,Female,18-59,Host Community,2025-01-29,EU
+BEN-0529,Niger,Agadez,Food Security,MENA,Government,Male,6-17,IDP,2024-05-12,NORAD
+BEN-0530,Mali,Mopti,Education,WHO,UN Agency,Female,18-59,Refugee,2024-01-05,UNICEF
+BEN-0531,Niger,Niamey,Protection,UNICEF,UN Agency,Female,60+,Refugee,2024-08-31,OCHA
+BEN-0532,Mali,Segou,Shelter,CREDO,NGO,Female,18-59,Host Community,2024-04-30,EU
+BEN-0533,Niger,Zinder,WASH,CREDO,NGO,Female,6-17,IDP,2025-02-02,USAID
+BEN-0534,Burkina Faso,Est,Health,ACF,INGO,Male,18-59,Refugee,2024-07-09,NORAD
+BEN-0535,Senegal,Saint-Louis,Protection,CISV,NGO,Female,6-17,Host Community,2025-01-19,USAID
+BEN-0536,Senegal,Ziguinchor,Protection,ACF,INGO,Female,6-17,Host Community,2024-12-17,NORAD
+BEN-0537,Burkina Faso,Cascades,Protection,UNICEF,UN Agency,Male,18-59,IDP,2024-07-13,OCHA
+BEN-0538,Niger,Diffa,Education,WFP,UN Agency,Female,6-17,Returnee,2024-05-17,BHA
+BEN-0539,Niger,Maradi,WASH,MSHP,Government,Male,6-17,Refugee,2025-01-20,OCHA
+BEN-0540,Chad,Ouaddai,Protection,CISV,NGO,Male,60+,Host Community,2024-12-17,EU
+BEN-0541,Burkina Faso,Nord,Education,CISV,NGO,Female,18-59,Host Community,2024-04-10,EU
+BEN-0542,Mali,Tombouctou,Education,Oxfam,INGO,Female,6-17,Refugee,2025-03-10,EU
+BEN-0543,Chad,Ouaddai,Shelter,Save the Children,INGO,Male,18-59,Host Community,2024-01-31,EU
+BEN-0544,Niger,Agadez,Education,Save the Children,INGO,Female,6-17,Refugee,2024-07-03,BHA
+BEN-0545,Senegal,Saint-Louis,Shelter,Save the Children,INGO,Male,6-17,Host Community,2024-12-13,BHA
+BEN-0546,Senegal,Louga,WASH,UNHCR,UN Agency,Female,18-59,Returnee,2024-09-06,USAID
+BEN-0547,Chad,Kanem,Shelter,DNDS,Government,Male,18-59,Returnee,2024-06-21,GFFO
+BEN-0548,Senegal,Louga,Protection,IRC,INGO,Male,6-17,Refugee,2024-06-09,GFFO
+BEN-0549,Niger,Maradi,Health,MASF,Government,Female,18-59,Returnee,2024-07-04,NORAD
+BEN-0550,Mali,Mopti,Education,Oxfam,INGO,Female,6-17,IDP,2024-05-08,UNICEF
+BEN-0551,Mali,Tombouctou,Nutrition,IRC,INGO,Female,18-59,Returnee,2024-01-14,BHA
+BEN-0552,Burkina Faso,Centre,Shelter,SPONG,NGO,Female,60+,Refugee,2024-07-18,UNICEF
+BEN-0553,Mali,Gao,Protection,CREDO,NGO,Female,18-59,IDP,2024-01-15,GFFO
+BEN-0554,Niger,Maradi,Education,MSHP,Government,Female,60+,Returnee,2024-10-07,UNICEF
+BEN-0555,Senegal,Thiès,Health,MENA,Government,Female,18-59,Refugee,2024-11-23,OCHA
+BEN-0556,Chad,Kanem,WASH,Save the Children,INGO,Female,6-17,Host Community,2024-05-13,OCHA
+BEN-0557,Burkina Faso,Centre,Health,AMADE,NGO,Female,6-17,Returnee,2024-01-05,EU
+BEN-0558,Chad,Ouaddai,Nutrition,MASF,Government,Female,6-17,Refugee,2024-01-04,UNICEF
+BEN-0559,Chad,Kanem,Protection,DNDS,Government,Male,18-59,Returnee,2024-11-26,EU
+BEN-0560,Chad,Lac,Shelter,Save the Children,INGO,Female,6-17,Refugee,2025-01-26,OCHA
+BEN-0561,Senegal,Saint-Louis,Protection,SPONG,NGO,Male,0-5,Returnee,2024-02-26,BHA
+BEN-0562,Chad,Ouaddai,Food Security,DNDS,Government,Female,0-5,IDP,2024-01-26,UNICEF
+BEN-0563,Burkina Faso,Nord,Shelter,AFRIQUE ESPOIR,NGO,Female,0-5,Host Community,2024-02-16,USAID
+BEN-0564,Chad,Lac,Shelter,MASF,Government,Female,60+,IDP,2024-08-25,OCHA
+BEN-0565,Burkina Faso,Sahel,Nutrition,WHO,UN Agency,Male,18-59,Host Community,2024-04-02,EU
+BEN-0566,Niger,Agadez,Education,IRC,INGO,Female,6-17,Returnee,2025-01-29,UNICEF
+BEN-0567,Burkina Faso,Sahel,Protection,ACF,INGO,Female,60+,Returnee,2024-08-30,GFFO
+BEN-0568,Niger,Maradi,WASH,ACF,INGO,Female,0-5,Refugee,2024-09-03,UNICEF
+BEN-0569,Niger,Niamey,Education,SPONG,NGO,Male,18-59,IDP,2024-06-15,UNICEF
+BEN-0570,Niger,Diffa,Nutrition,DNDS,Government,Male,60+,Returnee,2024-10-24,GFFO
+BEN-0571,Senegal,Thiès,Shelter,Oxfam,INGO,Male,6-17,Refugee,2024-12-17,EU
+BEN-0572,Burkina Faso,Centre,Shelter,CISV,NGO,Male,0-5,Refugee,2024-04-29,BHA
+BEN-0573,Niger,Agadez,Food Security,SPONG,NGO,Female,6-17,Host Community,2025-01-05,OCHA
+BEN-0574,Burkina Faso,Est,Food Security,MENA,Government,Female,18-59,Host Community,2024-09-07,BHA
+BEN-0575,Mali,Segou,Shelter,WHO,UN Agency,Female,18-59,Host Community,2024-11-02,USAID
+BEN-0576,Senegal,Thiès,Protection,UNHCR,UN Agency,Female,6-17,Returnee,2024-01-01,GFFO
+BEN-0577,Mali,Bamako,Health,FAO,UN Agency,Male,6-17,Returnee,2024-02-02,UNICEF
+BEN-0578,Senegal,Ziguinchor,Education,CISV,NGO,Female,6-17,Refugee,2024-11-24,USAID
+BEN-0579,Burkina Faso,Cascades,Food Security,IRC,INGO,Male,0-5,Host Community,2024-01-17,USAID
+BEN-0580,Chad,Lac,Nutrition,ACF,INGO,Female,18-59,Returnee,2024-12-02,BHA
+BEN-0581,Senegal,Louga,Shelter,MSF,INGO,Male,18-59,IDP,2024-02-06,UNICEF
+BEN-0582,Chad,N'Djamena,Protection,MSF,INGO,Female,18-59,Refugee,2024-07-31,EU
+BEN-0583,Burkina Faso,Cascades,Shelter,IRC,INGO,Female,0-5,IDP,2024-04-20,USAID
+BEN-0584,Mali,Segou,Protection,CREDO,NGO,Female,18-59,Host Community,2024-10-18,BHA
+BEN-0585,Senegal,Ziguinchor,Food Security,ACF,INGO,Female,18-59,Returnee,2024-12-25,USAID
+BEN-0586,Mali,Mopti,Health,MENA,Government,Female,18-59,Returnee,2024-09-30,OCHA
+BEN-0587,Niger,Diffa,Shelter,WHO,UN Agency,Female,6-17,Refugee,2025-01-06,BHA
+BEN-0588,Mali,Segou,Health,AFRIQUE ESPOIR,NGO,Female,60+,Refugee,2024-05-10,NORAD
+BEN-0589,Chad,Borkou,Nutrition,MSF,INGO,Female,0-5,Refugee,2024-03-10,USAID
+BEN-0590,Niger,Zinder,WASH,UNICEF,UN Agency,Female,18-59,Host Community,2024-10-10,USAID
+BEN-0591,Burkina Faso,Est,Shelter,CREDO,NGO,Female,6-17,Host Community,2024-10-25,UNICEF
+BEN-0592,Niger,Maradi,Nutrition,MENA,Government,Male,18-59,Refugee,2025-01-05,EU
+BEN-0593,Chad,Lac,Protection,ACF,INGO,Female,6-17,Returnee,2025-01-09,USAID
+BEN-0594,Burkina Faso,Nord,Shelter,MSHP,Government,Male,18-59,IDP,2024-04-26,GFFO
+BEN-0595,Chad,N'Djamena,Shelter,MSF,INGO,Female,18-59,Host Community,2024-06-16,UNICEF
+BEN-0596,Burkina Faso,Est,Protection,Oxfam,INGO,Female,6-17,Host Community,2024-07-20,UNICEF
+BEN-0597,Niger,Niamey,Protection,ACF,INGO,Female,6-17,Returnee,2024-07-23,EU
+BEN-0598,Mali,Mopti,Protection,AFRIQUE ESPOIR,NGO,Female,18-59,Host Community,2024-04-10,UNICEF
+BEN-0599,Burkina Faso,Nord,Education,MASF,Government,Female,60+,IDP,2024-02-15,GFFO
+BEN-0600,Chad,Borkou,Shelter,WFP,UN Agency,Female,6-17,IDP,2024-12-01,EU
+BEN-0601,Niger,Zinder,Shelter,MENA,Government,Male,6-17,Host Community,2025-02-22,UNICEF
+BEN-0602,Niger,Zinder,Education,IRC,INGO,Female,0-5,Host Community,2024-11-13,EU
+BEN-0603,Niger,Niamey,Shelter,MSF,INGO,Female,6-17,Host Community,2024-06-18,GFFO
+BEN-0604,Senegal,Thiès,WASH,FAO,UN Agency,Female,18-59,IDP,2024-03-13,NORAD
+BEN-0605,Senegal,Louga,Nutrition,WFP,UN Agency,Male,6-17,Refugee,2025-02-08,USAID
+BEN-0606,Chad,N'Djamena,Nutrition,MASF,Government,Female,18-59,Refugee,2024-12-03,EU
+BEN-0607,Burkina Faso,Centre,Shelter,DNDS,Government,Female,18-59,IDP,2024-12-29,OCHA
+BEN-0608,Chad,Kanem,Health,Oxfam,INGO,Male,18-59,IDP,2024-08-22,USAID
+BEN-0609,Mali,Segou,Shelter,WHO,UN Agency,Female,18-59,Refugee,2024-01-10,GFFO
+BEN-0610,Niger,Maradi,Food Security,WFP,UN Agency,Female,6-17,Refugee,2024-02-01,NORAD
+BEN-0611,Burkina Faso,Cascades,Shelter,CREDO,NGO,Female,18-59,Host Community,2024-12-02,USAID
+BEN-0612,Chad,Kanem,Food Security,AFRIQUE ESPOIR,NGO,Male,18-59,Refugee,2024-08-06,BHA
+BEN-0613,Niger,Agadez,Health,CREDO,NGO,Female,0-5,Host Community,2024-10-04,EU
+BEN-0614,Mali,Gao,Food Security,AFRIQUE ESPOIR,NGO,Male,18-59,Host Community,2024-10-16,OCHA
+BEN-0615,Burkina Faso,Cascades,Health,Oxfam,INGO,Female,18-59,IDP,2024-03-15,EU
+BEN-0616,Niger,Agadez,Protection,WHO,UN Agency,Female,60+,Refugee,2024-11-22,UNICEF
+BEN-0617,Mali,Bamako,WASH,SPONG,NGO,Female,18-59,Host Community,2024-11-06,BHA
+BEN-0618,Mali,Mopti,Food Security,MSF,INGO,Male,18-59,Host Community,2024-09-01,BHA
+BEN-0619,Senegal,Ziguinchor,Food Security,WFP,UN Agency,Female,6-17,Host Community,2024-03-11,UNICEF
+BEN-0620,Mali,Bamako,Protection,MSF,INGO,Female,6-17,Host Community,2024-12-09,EU
+BEN-0621,Mali,Bamako,WASH,MENA,Government,Female,18-59,Returnee,2025-03-19,UNICEF
+BEN-0622,Chad,Borkou,Education,ACF,INGO,Female,18-59,Refugee,2025-01-03,NORAD
+BEN-0623,Senegal,Louga,Health,ACF,INGO,Male,6-17,IDP,2025-02-27,UNICEF
+BEN-0624,Senegal,Louga,Protection,ACF,INGO,Female,18-59,IDP,2024-11-18,UNICEF
+BEN-0625,Niger,Agadez,Protection,UNHCR,UN Agency,Female,0-5,IDP,2024-05-30,GFFO
+BEN-0626,Senegal,Thiès,Protection,DREP,Government,Female,18-59,Host Community,2024-04-02,NORAD
+BEN-0627,Chad,Ouaddai,Protection,Oxfam,INGO,Female,18-59,Host Community,2024-12-30,NORAD
+BEN-0628,Burkina Faso,Nord,Shelter,SPONG,NGO,Male,0-5,Refugee,2024-08-18,USAID
+BEN-0629,Senegal,Ziguinchor,Food Security,AFRIQUE ESPOIR,NGO,Female,6-17,Host Community,2025-01-28,OCHA
+BEN-0630,Senegal,Thiès,WASH,CREDO,NGO,Female,0-5,Refugee,2024-06-06,GFFO
+BEN-0631,Chad,Ouaddai,Food Security,SPONG,NGO,Male,60+,Refugee,2024-01-02,USAID
+BEN-0632,Chad,Borkou,Education,MENA,Government,Male,18-59,Host Community,2024-09-09,UNICEF
+BEN-0633,Senegal,Ziguinchor,Protection,MSHP,Government,Male,18-59,Host Community,2024-01-04,BHA
+BEN-0634,Niger,Diffa,Food Security,SPONG,NGO,Male,0-5,Refugee,2024-11-30,USAID
+BEN-0635,Mali,Bamako,Food Security,UNHCR,UN Agency,Male,0-5,Host Community,2024-08-01,UNICEF
+BEN-0636,Niger,Diffa,Food Security,AFRIQUE ESPOIR,NGO,Female,18-59,IDP,2024-01-19,EU
+BEN-0637,Niger,Maradi,Shelter,DREP,Government,Female,18-59,Refugee,2024-02-03,NORAD
+BEN-0638,Mali,Bamako,Food Security,UNHCR,UN Agency,Female,6-17,Host Community,2024-04-17,BHA
+BEN-0639,Burkina Faso,Centre,Health,Save the Children,INGO,Female,18-59,Refugee,2025-02-07,NORAD
+BEN-0640,Senegal,Saint-Louis,Shelter,WFP,UN Agency,Female,18-59,Returnee,2024-09-23,NORAD
+BEN-0641,Mali,Segou,WASH,WFP,UN Agency,Male,0-5,IDP,2024-08-26,GFFO
+BEN-0642,Mali,Segou,Protection,DREP,Government,Female,6-17,Host Community,2025-02-16,USAID
+BEN-0643,Mali,Gao,Shelter,MSF,INGO,Female,18-59,IDP,2024-06-14,USAID
+BEN-0644,Niger,Maradi,Protection,Oxfam,INGO,Male,6-17,Returnee,2024-06-22,NORAD
+BEN-0645,Burkina Faso,Sahel,Protection,AFRIQUE ESPOIR,NGO,Female,18-59,Returnee,2024-08-24,GFFO
+BEN-0646,Burkina Faso,Cascades,Shelter,FAO,UN Agency,Female,0-5,Refugee,2024-10-22,EU
+BEN-0647,Niger,Niamey,WASH,UNICEF,UN Agency,Female,60+,Host Community,2024-11-16,BHA
+BEN-0648,Senegal,Ziguinchor,WASH,MSF,INGO,Female,18-59,IDP,2024-12-29,OCHA
+BEN-0649,Chad,N'Djamena,Protection,AMADE,NGO,Female,18-59,Host Community,2024-06-03,BHA
+BEN-0650,Niger,Zinder,Nutrition,UNICEF,UN Agency,Male,60+,IDP,2024-08-15,EU
+BEN-0651,Chad,Kanem,WASH,AMADE,NGO,Female,18-59,Refugee,2024-09-25,EU
+BEN-0652,Niger,Zinder,Education,ACF,INGO,Female,60+,IDP,2024-04-15,NORAD
+BEN-0653,Chad,Kanem,Nutrition,MSF,INGO,Male,18-59,IDP,2024-10-31,OCHA
+BEN-0654,Chad,N'Djamena,Nutrition,UNICEF,UN Agency,Female,18-59,Host Community,2024-11-23,OCHA
+BEN-0655,Mali,Mopti,Shelter,FAO,UN Agency,Female,18-59,IDP,2024-12-09,OCHA
+BEN-0656,Mali,Mopti,Shelter,IRC,INGO,Female,18-59,Host Community,2024-02-22,BHA
+BEN-0657,Niger,Diffa,Shelter,WFP,UN Agency,Female,18-59,Host Community,2024-10-20,UNICEF
+BEN-0658,Burkina Faso,Nord,Health,FAO,UN Agency,Female,0-5,Returnee,2024-01-15,GFFO
+BEN-0659,Burkina Faso,Centre,Protection,IRC,INGO,Female,6-17,Returnee,2024-12-26,BHA
+BEN-0660,Niger,Maradi,Shelter,CISV,NGO,Male,60+,Returnee,2025-01-21,BHA
+BEN-0661,Mali,Bamako,Education,DREP,Government,Female,6-17,Returnee,2024-11-25,NORAD
+BEN-0662,Mali,Mopti,WASH,UNHCR,UN Agency,Female,0-5,Refugee,2024-12-06,EU
+BEN-0663,Niger,Agadez,Protection,IRC,INGO,Female,0-5,Returnee,2024-09-02,EU
+BEN-0664,Mali,Gao,Education,FAO,UN Agency,Female,0-5,Returnee,2024-02-22,EU
+BEN-0665,Burkina Faso,Nord,Health,MSF,INGO,Female,6-17,Returnee,2024-10-29,UNICEF
+BEN-0666,Senegal,Thiès,Health,AFRIQUE ESPOIR,NGO,Female,0-5,Returnee,2024-04-16,EU
+BEN-0667,Chad,Kanem,Education,FAO,UN Agency,Female,6-17,IDP,2024-12-05,GFFO
+BEN-0668,Senegal,Ziguinchor,Nutrition,MASF,Government,Female,0-5,Host Community,2024-08-15,OCHA
+BEN-0669,Chad,N'Djamena,Health,ACF,INGO,Female,6-17,IDP,2024-11-26,USAID
+BEN-0670,Mali,Mopti,Health,Oxfam,INGO,Female,0-5,Refugee,2024-09-29,NORAD
+BEN-0671,Senegal,Louga,Protection,CREDO,NGO,Female,18-59,Refugee,2024-06-02,NORAD
+BEN-0672,Niger,Niamey,Health,ACF,INGO,Female,6-17,Refugee,2024-03-06,USAID
+BEN-0673,Niger,Diffa,Nutrition,ACF,INGO,Female,0-5,IDP,2024-05-24,UNICEF
+BEN-0674,Chad,Kanem,Protection,WHO,UN Agency,Female,6-17,Host Community,2024-10-06,GFFO
+BEN-0675,Mali,Tombouctou,WASH,CISV,NGO,Female,18-59,Returnee,2024-07-03,UNICEF
+BEN-0676,Niger,Zinder,WASH,IRC,INGO,Female,0-5,Returnee,2025-01-04,GFFO
+BEN-0677,Chad,Lac,Nutrition,AFRIQUE ESPOIR,NGO,Female,18-59,Returnee,2024-12-22,BHA
+BEN-0678,Mali,Tombouctou,Health,MENA,Government,Female,6-17,Host Community,2024-04-25,NORAD
+BEN-0679,Senegal,Dakar,Health,DNDS,Government,Female,18-59,Refugee,2024-07-29,USAID
+BEN-0680,Burkina Faso,Cascades,Protection,UNICEF,UN Agency,Female,6-17,IDP,2024-12-19,UNICEF
+BEN-0681,Senegal,Saint-Louis,Protection,ACF,INGO,Female,0-5,IDP,2024-08-29,GFFO
+BEN-0682,Senegal,Louga,Shelter,MSF,INGO,Female,18-59,Returnee,2024-08-28,BHA
+BEN-0683,Chad,Kanem,Food Security,WHO,UN Agency,Female,60+,Refugee,2025-02-12,OCHA
+BEN-0684,Mali,Bamako,Food Security,FAO,UN Agency,Female,0-5,Host Community,2024-08-30,BHA
+BEN-0685,Burkina Faso,Nord,Education,MSF,INGO,Female,0-5,IDP,2024-09-15,EU
+BEN-0686,Niger,Maradi,WASH,UNHCR,UN Agency,Female,0-5,Host Community,2024-02-27,BHA
+BEN-0687,Mali,Tombouctou,Shelter,AMADE,NGO,Female,6-17,IDP,2024-04-02,OCHA
+BEN-0688,Burkina Faso,Sahel,Health,AFRIQUE ESPOIR,NGO,Female,18-59,Returnee,2024-05-01,GFFO
+BEN-0689,Mali,Mopti,Health,UNICEF,UN Agency,Female,6-17,IDP,2025-02-23,USAID
+BEN-0690,Mali,Tombouctou,Protection,MASF,Government,Female,18-59,Host Community,2025-01-20,NORAD
+BEN-0691,Chad,Borkou,Shelter,CISV,NGO,Female,0-5,Returnee,2025-02-12,NORAD
+BEN-0692,Niger,Diffa,Food Security,IRC,INGO,Female,18-59,Returnee,2025-03-08,BHA
+BEN-0693,Niger,Maradi,Shelter,UNICEF,UN Agency,Female,18-59,Returnee,2024-07-19,EU
+BEN-0694,Mali,Segou,Education,CISV,NGO,Female,18-59,Refugee,2024-04-02,BHA
+BEN-0695,Burkina Faso,Centre,Education,IRC,INGO,Female,0-5,Returnee,2024-02-23,OCHA
+BEN-0696,Mali,Gao,Shelter,SPONG,NGO,Male,18-59,Host Community,2024-01-30,BHA
+BEN-0697,Burkina Faso,Centre,Nutrition,AFRIQUE ESPOIR,NGO,Female,18-59,Host Community,2024-11-27,USAID
+BEN-0698,Mali,Gao,Shelter,DREP,Government,Female,6-17,Returnee,2024-05-21,GFFO
+BEN-0699,Niger,Maradi,WASH,MSF,INGO,Male,6-17,IDP,2024-06-19,OCHA
+BEN-0700,Niger,Zinder,Protection,Save the Children,INGO,Male,18-59,Returnee,2024-04-01,USAID
+BEN-0701,Mali,Segou,Education,DNDS,Government,Female,18-59,Refugee,2024-08-14,USAID
+BEN-0702,Burkina Faso,Centre,Nutrition,WHO,UN Agency,Male,18-59,IDP,2024-03-17,USAID
+BEN-0703,Chad,Ouaddai,WASH,WHO,UN Agency,Female,0-5,Returnee,2024-12-28,NORAD
+BEN-0704,Chad,Borkou,Education,ACF,INGO,Male,0-5,Returnee,2024-12-18,USAID
+BEN-0705,Senegal,Louga,Shelter,UNHCR,UN Agency,Female,0-5,IDP,2024-11-27,OCHA
+BEN-0706,Senegal,Saint-Louis,Nutrition,MASF,Government,Female,6-17,IDP,2024-10-10,NORAD
+BEN-0707,Mali,Gao,Food Security,DREP,Government,Female,18-59,IDP,2024-09-06,GFFO
+BEN-0708,Chad,Lac,WASH,Oxfam,INGO,Male,18-59,Host Community,2024-10-30,NORAD
+BEN-0709,Chad,N'Djamena,Education,WHO,UN Agency,Female,60+,Returnee,2025-02-19,USAID
+BEN-0710,Burkina Faso,Nord,Nutrition,UNICEF,UN Agency,Female,0-5,Returnee,2025-02-17,GFFO
+BEN-0711,Senegal,Thiès,Food Security,SPONG,NGO,Male,18-59,IDP,2024-09-07,NORAD
+BEN-0712,Senegal,Dakar,WASH,SPONG,NGO,Male,18-59,IDP,2024-06-06,NORAD
+BEN-0713,Senegal,Thiès,Education,IRC,INGO,Male,6-17,Host Community,2025-02-13,USAID
+BEN-0714,Mali,Tombouctou,Shelter,MASF,Government,Male,60+,Host Community,2024-10-21,OCHA
+BEN-0715,Mali,Bamako,Health,AMADE,NGO,Male,0-5,Returnee,2024-03-13,UNICEF
+BEN-0716,Niger,Diffa,WASH,DNDS,Government,Female,0-5,Returnee,2024-02-21,EU
+BEN-0717,Mali,Bamako,Protection,IRC,INGO,Male,0-5,Refugee,2024-02-15,NORAD
+BEN-0718,Chad,Lac,WASH,AMADE,NGO,Female,6-17,Host Community,2024-05-02,BHA
+BEN-0719,Burkina Faso,Cascades,WASH,MENA,Government,Male,18-59,Refugee,2025-02-04,OCHA
+BEN-0720,Chad,N'Djamena,Health,CREDO,NGO,Male,60+,Refugee,2024-02-18,EU
+BEN-0721,Senegal,Louga,WASH,DNDS,Government,Female,0-5,Host Community,2024-02-27,GFFO
+BEN-0722,Chad,Borkou,WASH,SPONG,NGO,Male,18-59,Host Community,2024-05-25,NORAD
+BEN-0723,Niger,Maradi,Health,DREP,Government,Male,18-59,Host Community,2024-10-02,UNICEF
+BEN-0724,Burkina Faso,Est,Health,IRC,INGO,Male,18-59,Refugee,2024-10-30,NORAD
+BEN-0725,Mali,Gao,WASH,MSF,INGO,Male,0-5,Returnee,2025-01-12,EU
+BEN-0726,Mali,Tombouctou,WASH,Save the Children,INGO,Female,6-17,Host Community,2024-08-11,UNICEF
+BEN-0727,Senegal,Ziguinchor,WASH,MASF,Government,Male,6-17,Refugee,2024-04-09,OCHA
+BEN-0728,Mali,Gao,WASH,ACF,INGO,Male,6-17,Returnee,2024-02-26,NORAD
+BEN-0729,Chad,Lac,Education,WFP,UN Agency,Female,18-59,Host Community,2025-02-08,BHA
+BEN-0730,Senegal,Thiès,Nutrition,MENA,Government,Female,18-59,Returnee,2024-04-20,EU
+BEN-0731,Chad,Ouaddai,Nutrition,DNDS,Government,Male,6-17,Host Community,2024-10-23,BHA
+BEN-0732,Mali,Segou,Nutrition,DREP,Government,Male,60+,IDP,2025-01-10,NORAD
+BEN-0733,Senegal,Ziguinchor,Protection,Save the Children,INGO,Female,6-17,IDP,2024-10-12,GFFO
+BEN-0734,Chad,Lac,WASH,UNHCR,UN Agency,Male,18-59,IDP,2024-02-16,NORAD
+BEN-0735,Niger,Zinder,Food Security,MENA,Government,Female,18-59,Returnee,2024-08-20,EU
+BEN-0736,Mali,Tombouctou,WASH,WHO,UN Agency,Female,18-59,IDP,2025-03-16,NORAD
+BEN-0737,Niger,Diffa,Nutrition,WHO,UN Agency,Female,18-59,Host Community,2024-11-09,EU
+BEN-0738,Burkina Faso,Cascades,Shelter,ACF,INGO,Female,6-17,IDP,2024-01-27,NORAD
+BEN-0739,Niger,Agadez,Health,MSF,INGO,Female,0-5,IDP,2024-10-13,BHA
+BEN-0740,Mali,Mopti,Shelter,CISV,NGO,Male,18-59,Host Community,2025-01-12,EU
+BEN-0741,Mali,Gao,Shelter,FAO,UN Agency,Female,6-17,IDP,2024-01-28,OCHA
+BEN-0742,Niger,Agadez,Protection,Save the Children,INGO,Female,18-59,Refugee,2025-02-26,NORAD
+BEN-0743,Senegal,Saint-Louis,Education,Oxfam,INGO,Female,0-5,Host Community,2024-07-19,OCHA
+BEN-0744,Burkina Faso,Centre,WASH,UNICEF,UN Agency,Female,0-5,Host Community,2024-03-18,BHA
+BEN-0745,Burkina Faso,Nord,Protection,AFRIQUE ESPOIR,NGO,Female,6-17,IDP,2025-01-12,OCHA
+BEN-0746,Mali,Bamako,Nutrition,CISV,NGO,Female,6-17,Refugee,2024-10-23,GFFO
+BEN-0747,Niger,Agadez,Health,MSHP,Government,Female,18-59,Refugee,2025-02-08,UNICEF
+BEN-0748,Niger,Zinder,Protection,UNHCR,UN Agency,Male,0-5,Returnee,2024-05-25,UNICEF
+BEN-0749,Senegal,Thiès,Food Security,WFP,UN Agency,Male,18-59,Host Community,2024-12-20,UNICEF
+BEN-0750,Mali,Bamako,Nutrition,FAO,UN Agency,Male,6-17,Host Community,2024-07-08,UNICEF
+BEN-0751,Senegal,Dakar,Food Security,UNHCR,UN Agency,Male,6-17,Host Community,2024-10-03,BHA
+BEN-0752,Niger,Niamey,Nutrition,MSHP,Government,Male,60+,Host Community,2024-06-12,USAID
+BEN-0753,Senegal,Louga,Shelter,WHO,UN Agency,Female,60+,Host Community,2025-01-21,EU
+BEN-0754,Senegal,Ziguinchor,Shelter,Save the Children,INGO,Male,0-5,IDP,2024-10-09,OCHA
+BEN-0755,Burkina Faso,Est,Health,AFRIQUE ESPOIR,NGO,Female,0-5,Host Community,2024-01-29,BHA
+BEN-0756,Senegal,Thiès,Education,WFP,UN Agency,Male,0-5,Returnee,2025-03-10,GFFO
+BEN-0757,Burkina Faso,Cascades,Protection,AFRIQUE ESPOIR,NGO,Female,18-59,IDP,2024-09-18,GFFO
+BEN-0758,Niger,Agadez,WASH,MASF,Government,Female,6-17,Refugee,2024-05-25,OCHA
+BEN-0759,Niger,Agadez,Education,Oxfam,INGO,Female,18-59,Returnee,2025-01-14,EU
+BEN-0760,Chad,Ouaddai,WASH,MSHP,Government,Male,18-59,IDP,2024-11-02,UNICEF
+BEN-0761,Mali,Gao,Protection,UNICEF,UN Agency,Female,18-59,IDP,2024-02-15,NORAD
+BEN-0762,Niger,Agadez,WASH,MENA,Government,Male,0-5,Returnee,2025-03-02,OCHA
+BEN-0763,Senegal,Ziguinchor,Nutrition,FAO,UN Agency,Female,6-17,Returnee,2025-01-13,UNICEF
+BEN-0764,Burkina Faso,Centre,WASH,UNHCR,UN Agency,Female,18-59,IDP,2024-08-29,GFFO
+BEN-0765,Niger,Agadez,WASH,DNDS,Government,Male,0-5,Returnee,2024-05-21,USAID
+BEN-0766,Senegal,Saint-Louis,Health,MENA,Government,Female,18-59,Returnee,2024-11-17,GFFO
+BEN-0767,Burkina Faso,Nord,Health,MSF,INGO,Male,18-59,Refugee,2024-03-15,NORAD
+BEN-0768,Mali,Gao,WASH,MSF,INGO,Female,6-17,IDP,2024-07-01,OCHA
+BEN-0769,Niger,Diffa,Food Security,ACF,INGO,Male,18-59,IDP,2024-04-03,BHA
+BEN-0770,Mali,Segou,Shelter,UNHCR,UN Agency,Female,18-59,Refugee,2024-12-18,USAID
+BEN-0771,Senegal,Louga,Shelter,SPONG,NGO,Male,18-59,Returnee,2024-07-09,NORAD
+BEN-0772,Niger,Zinder,Nutrition,CREDO,NGO,Female,6-17,IDP,2024-04-06,NORAD
+BEN-0773,Chad,N'Djamena,Nutrition,SPONG,NGO,Female,6-17,Refugee,2024-12-19,UNICEF
+BEN-0774,Chad,Kanem,Health,WFP,UN Agency,Female,6-17,IDP,2025-01-16,UNICEF
+BEN-0775,Mali,Mopti,Food Security,AMADE,NGO,Male,6-17,Returnee,2024-02-10,GFFO
+BEN-0776,Burkina Faso,Centre,Nutrition,MSHP,Government,Male,0-5,IDP,2024-01-17,NORAD
+BEN-0777,Burkina Faso,Nord,Nutrition,MSF,INGO,Female,0-5,IDP,2024-02-19,BHA
+BEN-0778,Mali,Segou,WASH,AMADE,NGO,Male,0-5,Refugee,2025-03-09,BHA
+BEN-0779,Niger,Maradi,WASH,CISV,NGO,Female,0-5,IDP,2025-02-23,BHA
+BEN-0780,Mali,Mopti,Shelter,CISV,NGO,Male,60+,Host Community,2024-02-20,BHA
+BEN-0781,Chad,Ouaddai,Food Security,AFRIQUE ESPOIR,NGO,Female,60+,Refugee,2024-04-02,NORAD
+BEN-0782,Chad,Lac,Health,AFRIQUE ESPOIR,NGO,Male,18-59,IDP,2024-06-09,NORAD
+BEN-0783,Burkina Faso,Cascades,WASH,MASF,Government,Female,6-17,IDP,2025-01-04,USAID
+BEN-0784,Niger,Agadez,Nutrition,MASF,Government,Female,18-59,Returnee,2024-06-08,UNICEF
+BEN-0785,Senegal,Ziguinchor,Shelter,DNDS,Government,Male,18-59,Returnee,2025-02-14,GFFO
+BEN-0786,Niger,Zinder,Nutrition,DREP,Government,Female,6-17,IDP,2024-12-03,USAID
+BEN-0787,Mali,Tombouctou,Protection,Oxfam,INGO,Male,6-17,Refugee,2024-04-11,UNICEF
+BEN-0788,Senegal,Ziguinchor,Nutrition,AFRIQUE ESPOIR,NGO,Female,6-17,Refugee,2025-01-26,EU
+BEN-0789,Chad,Ouaddai,Protection,MSHP,Government,Female,6-17,Returnee,2025-01-28,USAID
+BEN-0790,Burkina Faso,Nord,Protection,DNDS,Government,Female,60+,IDP,2024-01-16,GFFO
+BEN-0791,Burkina Faso,Centre,Protection,Oxfam,INGO,Female,18-59,Host Community,2024-06-16,OCHA
+BEN-0792,Senegal,Louga,Nutrition,ACF,INGO,Female,18-59,Refugee,2024-04-13,GFFO
+BEN-0793,Chad,Borkou,Health,FAO,UN Agency,Female,18-59,IDP,2024-10-03,EU
+BEN-0794,Burkina Faso,Est,Nutrition,MSHP,Government,Female,18-59,Returnee,2024-08-14,USAID
+BEN-0795,Burkina Faso,Sahel,Health,WFP,UN Agency,Female,6-17,Returnee,2024-06-08,NORAD
+BEN-0796,Burkina Faso,Cascades,Food Security,MENA,Government,Female,18-59,Returnee,2024-08-28,BHA
+BEN-0797,Mali,Segou,Nutrition,MASF,Government,Female,18-59,Refugee,2024-07-12,EU
+BEN-0798,Niger,Maradi,Nutrition,ACF,INGO,Male,0-5,Refugee,2024-07-06,EU
+BEN-0799,Senegal,Dakar,Education,WHO,UN Agency,Male,6-17,Returnee,2024-07-01,OCHA
+BEN-0800,Burkina Faso,Sahel,WASH,AMADE,NGO,Female,0-5,IDP,2024-12-18,EU
